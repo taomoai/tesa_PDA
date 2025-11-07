@@ -1,0 +1,213 @@
+# =============================================================================
+# TaomoAI Server Dependencies
+# =============================================================================
+
+# -----------------------------------------------------------------------------
+# Core Web Frameworks
+# -----------------------------------------------------------------------------
+Flask==3.0.0
+Flask-SQLAlchemy==3.1.1
+Flask-Migrate==4.0.5
+Flask-Cors==4.0.0
+flask-cors>=4.0.0
+flask-smorest>=0.42.0
+
+# FastAPI for hybrid migration
+fastapi>=0.104.1
+uvicorn[standard]>=0.24.0
+python-multipart>=0.0.6
+pydantic>=2.5.2
+pydantic-settings>=2.0.0
+
+# Additional FastAPI ecosystem packages
+aiofiles>=23.0.0
+httpx>=0.25.0
+# 暂时移除fastapi-users以避免冲突
+# fastapi-users>=12.0.0,<13.0.0
+slowapi>=0.1.9
+fastapi-limiter>=0.1.5
+fastapi-pagination>=0.12.0
+email-validator>=2.2.0
+pydantic-validation-decorator==0.1.5  # 0.1.5 已不再强制要求 email-validator 版本
+
+# WSGI/ASGI Servers
+gunicorn==21.2.0
+
+# -----------------------------------------------------------------------------
+# Database & ORM
+# -----------------------------------------------------------------------------
+SQLAlchemy>=2.0.25
+sqlalchemy-utils>=0.41.1
+
+# Database Drivers
+psycopg2-binary==2.9.9
+psycopg2-binary>=2.9.5
+pymysql>=1.0.2
+asyncpg>=0.29.0
+
+# Vector Database
+pgvector==0.2.5
+
+# Graph Database
+neo4j==5.28.1
+gremlinpython==3.7.3
+
+# Search Engine
+elasticsearch[async]~=8.17.2
+
+# -----------------------------------------------------------------------------
+# Authentication & Security
+# -----------------------------------------------------------------------------
+# PyJWT==2.8.0  # 让fastapi-users自动选择兼容版本
+python-jose==3.3.0
+cryptography>=3.4.7
+
+# -----------------------------------------------------------------------------
+# AI & Machine Learning
+# -----------------------------------------------------------------------------
+# LangChain Ecosystem
+langchain>=0.1.0
+langchain-core>=0.1.10
+langchain-experimental>=0.0.49
+langchain-deepseek
+langchain-community==0.3.10
+langsmith>=0.1.10
+
+# LlamaIndex Ecosystem
+llama-index>=0.9.50
+llama-index-vector-stores-postgres==0.1.3
+llama-index-embeddings-openai==0.1.6
+llama-index-embeddings-langchain
+
+# AI API Clients
+openai>=1.6.0
+dashscope>=1.10.0
+zhipuai==2.1.5.20250825  # 暂时注释掉，与PyJWT有冲突，可以单独安装
+litellm==1.55.1
+
+# Machine Learning Libraries
+torch==2.4.1
+scipy==1.15.2
+joblib==1.4.2
+scikit-learn==1.3.2
+regex==2024.11.6
+markitdown[pdf, docx, pptx]==0.0.1
+
+# Additional dependencies for document processing
+markitdown>=0.0.1  # For converting DOCX to markdown
+python-docx~=1.2.0
+deepdiff==8.5.0
+boto3==1.35.10
+torch==2.4.1
+minisom==2.3.5
+unstructured[all-docs]
+instructor
+
+# Data Science & Analytics
+pandas==2.3.1
+matplotlib>=3.5.0
+plotly==5.19.0
+pmdarima>=2.0.4
+statsmodels==0.14.4
+
+# -----------------------------------------------------------------------------
+# Document Processing & OCR
+# -----------------------------------------------------------------------------
+# PDF Processing
+PyPDF2==3.0.1
+pdf2image==1.16.3
+pdfplumber>=0.10.0
+
+# Office Documents
+python-docx
+markitdown[pdf, docx, pptx]==0.0.1
+markitdown>=0.0.1
+md2docx_python==1.0.0
+
+# OCR & Image Processing
+pytesseract>=0.3.10
+Pillow>=10.0.0
+opencv-python-headless>=4.8.0
+
+# Text Processing
+html2text==2025.4.15
+regex==2024.11.6
+mammoth
+bs4
+
+# -----------------------------------------------------------------------------
+# Cloud Storage & Object Storage
+# -----------------------------------------------------------------------------
+# AWS
+boto3==1.35.10
+
+# Azure
+azure-storage-blob==12.25.1
+
+# Alibaba Cloud
+oss2>=2.18.3
+
+# Tencent Cloud
+cos-python-sdk-v5>=1.9.37
+
+# MinIO
+minio==7.1.10
+
+# -----------------------------------------------------------------------------
+# File Format Support
+# -----------------------------------------------------------------------------
+openpyxl==3.1.5
+PyYAML==6.0.1
+
+# -----------------------------------------------------------------------------
+# Networking & HTTP
+# -----------------------------------------------------------------------------
+requests>=2.31.0
+
+# -----------------------------------------------------------------------------
+# Industrial Protocols
+# -----------------------------------------------------------------------------
+asyncua>=1.0.0
+
+# Message Queues
+aio_pika>=1.3.0
+
+# Task Queue
+celery>=5.3.0
+redis>=5.0.0
+nest_asyncio>=1.5.0
+
+# -----------------------------------------------------------------------------
+# Utilities & Helpers
+# -----------------------------------------------------------------------------
+loguru==0.7.2
+python-dotenv==1.0.0
+marshmallow==3.20.1
+tenacity>=8.0.0
+tabulate>=0.9.0
+deepdiff==8.5.0
+graphviz==0.20.1
+
+# Development Utilities
+faker==37.4.0
+
+azure-core==1.35.0
+azure-storage-blob==12.25.1
+kafka-python-ng==2.2.3
+azure-eventhub==5.15.0
+azure-eventhub-checkpointstoreblob==1.2.0
+# -----------------------------------------------------------------------------
+# Development & Testing
+# -----------------------------------------------------------------------------
+pytest==7.4.3
+pytest-asyncio>=0.21.0
+
+# Code Quality
+black==23.11.0
+flake8==6.1.0
+
+# google cloud
+google-auth==2.40.3
+google-auth-oauthlib==1.2.2
+google-auth-httplib2==0.2.0
+google-cloud-aiplatform==1.112.0
