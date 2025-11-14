@@ -1,0 +1,122 @@
+Adhesive|Adhesive-Name|Property|Condition|Value|type|NART|property_key|property_value|lb|ub|target_value
+14174-80000-00|Cello 33.146|Peel Adhesion (N/cm)|SUS|7.1|adhesive|14174-80000-00|adhesive##peel adhesion (n/cm)##sus##|7.1|7.1|7.1|7.1
+14174-80000-00||Peel Adhesion (N/cm)|PC|8.3|adhesive|14174-80000-00|adhesive##peel adhesion (n/cm)##pc##|8.3|8.3|8.3|8.3
+14174-80000-00||Holding Power (mins)|RT|>10000|adhesive|14174-80000-00|adhesive##holding power (mins)##rt##|>10000|10000.0||10000.0
+14174-80000-00||Edge taping|60/90|>7d|adhesive|14174-80000-00|adhesive##edge taping##60/90##|>7d|7.0||7.0
+14174-80000-00||Static Peel (mm)|50g,70℃ 24hr|1|adhesive|14174-80000-00|adhesive##static peel (mm)##50g,70℃ 24hr##|1|1.0|1.0|1.0
+14174-80000-00||Name Plate (mm)|30°,60/90 24hr|3|adhesive|14174-80000-00|adhesive##name plate (mm)##30°,60/90 24hr##|3|3.0|3.0|3.0
+14174-80000-00||Tg(℃)|DSC|-31|adhesive|14174-80000-00|adhesive##tg(℃)##dsc##|-31|-31.0|-31.0|-31.0
+14174-80000-00||Tg(℃)|DMA|-2|adhesive|14174-80000-00|adhesive##tg(℃)##dma##|-2|-2.0|-2.0|-2.0
+10164-70000-00|Cello 33.171|Peel Adhesion (N/cm)|SUS|6|adhesive|10164-70000-00|adhesive##peel adhesion (n/cm)##sus##|6|6.0|6.0|6.0
+10164-70000-00||Peel Adhesion (N/cm)|PC|6|adhesive|10164-70000-00|adhesive##peel adhesion (n/cm)##pc##|6|6.0|6.0|6.0
+10164-70000-00||Holding Power (mins)|RT|>10000|adhesive|10164-70000-00|adhesive##holding power (mins)##rt##|>10000|10000.0||10000.0
+10164-70000-00||Edge taping|60/90|2-5d|adhesive|10164-70000-00|adhesive##edge taping##60/90##|2-5d|2.0|5.0|3.5
+10164-70000-00||Static Peel (mm)|50g,70℃ 24hr|10|adhesive|10164-70000-00|adhesive##static peel (mm)##50g,70℃ 24hr##|10|10.0|10.0|10.0
+10164-70000-00||Name Plate (mm)|30°,60/90 24hr|2|adhesive|10164-70000-00|adhesive##name plate (mm)##30°,60/90 24hr##|2|2.0|2.0|2.0
+10164-70000-00||Tg(℃)|DSC|-24|adhesive|10164-70000-00|adhesive##tg(℃)##dsc##|-24|-24.0|-24.0|-24.0
+10164-70000-00||Tg(℃)|DMA|-9|adhesive|10164-70000-00|adhesive##tg(℃)##dma##|-9|-9.0|-9.0|-9.0
+13799-70000-80|Cello 33.115|Peel Adhesion (N/cm)|SUS|0.12|adhesive|13799-70000-80|adhesive##peel adhesion (n/cm)##sus##|0.12|0.12|0.12|0.12
+13799-70000-80||Peel Adhesion (N/cm)|RT ASTM|0.12|adhesive|13799-70000-80|adhesive##peel adhesion (n/cm)##rt astm##|0.12|0.12|0.12|0.12
+13799-70000-80||Peel Adhesion (N/cm)|PE|0.5|adhesive|13799-70000-80|adhesive##peel adhesion (n/cm)##pe##|0.5|0.5|0.5|0.5
+13799-70000-80||Holding Power (mins)|RT|>10000|adhesive|13799-70000-80|adhesive##holding power (mins)##rt##|>10000|10000.0||10000.0
+13799-70000-80||Micro shear|Distance µm|10|adhesive|13799-70000-80|adhesive##micro shear##distance µm##|10|10.0|10.0|10.0
+13799-70000-80||Heat resistance|200℃ 8hrs|0.52|adhesive|13799-70000-80|adhesive##heat resistance##200℃ 8hrs##|0.52|0.52|0.52|0.52
+13799-70000-80||Acid free||yes|adhesive|13799-70000-80|adhesive##acid free####|yes|||
+13740-70000-90|Cello 33.01|Peel Adhesion (N/cm)|SUS|6.4|adhesive|13740-70000-90|adhesive##peel adhesion (n/cm)##sus##|6.4|6.4|6.4|6.4
+13740-70000-90||Peel Adhesion (N/cm)|PC|7.8|adhesive|13740-70000-90|adhesive##peel adhesion (n/cm)##pc##|7.8|7.8|7.8|7.8
+13740-70000-90||Peel Adhesion (N/cm)|PE|4.2|adhesive|13740-70000-90|adhesive##peel adhesion (n/cm)##pe##|4.2|4.2|4.2|4.2
+13740-70000-90||Holding Power (mins)|RT|10000|adhesive|13740-70000-90|adhesive##holding power (mins)##rt##|10000|10000.0|10000.0|10000.0
+13740-70000-90||Holding Power (mins)|70℃|1364|adhesive|13740-70000-90|adhesive##holding power (mins)##70℃##|1364|1364.0|1364.0|1364.0
+13740-70000-90||Micro shear|Distance µm|70|adhesive|13740-70000-90|adhesive##micro shear##distance µm##|70|70.0|70.0|70.0
+13740-70000-90||RB tack|mm|213|adhesive|13740-70000-90|adhesive##rb tack##mm##|213|213.0|213.0|213.0
+13740-70000-90||Tg(℃)|DSC|-30|adhesive|13740-70000-90|adhesive##tg(℃)##dsc##|-30|-30.0|-30.0|-30.0
+10206-70000-00|cello 33.202|Peel Adhesion (N/cm)|ASTM|7.5|adhesive|10206-70000-00|adhesive##peel adhesion (n/cm)##astm##|7.5|7.5|7.5|7.5
+10206-70000-00||Peel Adhesion (N/cm)|PI|9.5|adhesive|10206-70000-00|adhesive##peel adhesion (n/cm)##pi##|9.5|9.5|9.5|9.5
+10206-70000-00||Holding Power (mins)|RT|>10000|adhesive|10206-70000-00|adhesive##holding power (mins)##rt##|>10000|10000.0||10000.0
+10206-70000-00||Tg(℃)|DSC|-13.7|adhesive|10206-70000-00|adhesive##tg(℃)##dsc##|-13.7|-13.7|-13.7|-13.7
+10206-70000-00||Tg(℃)|DMA|0.83|adhesive|10206-70000-00|adhesive##tg(℃)##dma##|0.83|0.83|0.83|0.83
+13840-50000-80|Cello 33.11|Peel Adhesion (N/cm)|SUS|7.7|adhesive|13840-50000-80|adhesive##peel adhesion (n/cm)##sus##|7.7|7.7|7.7|7.7
+13840-50000-80||Peel Adhesion (N/cm)|PC|7.4|adhesive|13840-50000-80|adhesive##peel adhesion (n/cm)##pc##|7.4|7.4|7.4|7.4
+13840-50000-80||Peel Adhesion (N/cm)|PE|2.9|adhesive|13840-50000-80|adhesive##peel adhesion (n/cm)##pe##|2.9|2.9|2.9|2.9
+13840-50000-80||Holding Power (mins)|RT|10000|adhesive|13840-50000-80|adhesive##holding power (mins)##rt##|10000|10000.0|10000.0|10000.0
+13840-50000-80||Holding Power (mins)|70℃|776|adhesive|13840-50000-80|adhesive##holding power (mins)##70℃##|776|776.0|776.0|776.0
+13840-50000-80||Micro shear|Distance µm|110|adhesive|13840-50000-80|adhesive##micro shear##distance µm##|110|110.0|110.0|110.0
+13840-50000-80||RB tack|mm|220|adhesive|13840-50000-80|adhesive##rb tack##mm##|220|220.0|220.0|220.0
+13840-50000-80||Tg(℃)|DSC|-23|adhesive|13840-50000-80|adhesive##tg(℃)##dsc##|-23|-23.0|-23.0|-23.0
+13840-50000-80||Tg(℃)|DMA|-3|adhesive|13840-50000-80|adhesive##tg(℃)##dma##|-3|-3.0|-3.0|-3.0
+10151-80000-00|Cello 34.37-34|Peel Adhesion (N/cm)|SUS|12.3|adhesive|10151-80000-00|adhesive##peel adhesion (n/cm)##sus##|12.3|12.3|12.3|12.3
+10151-80000-00||Peel Adhesion (N/cm)|PE|6.5|adhesive|10151-80000-00|adhesive##peel adhesion (n/cm)##pe##|6.5|6.5|6.5|6.5
+10151-80000-00||Holding Power (mins)|RT|10000|adhesive|10151-80000-00|adhesive##holding power (mins)##rt##|10000|10000.0|10000.0|10000.0
+10151-80000-00||Holding Power (mins)|70℃|527|adhesive|10151-80000-00|adhesive##holding power (mins)##70℃##|527|527.0|527.0|527.0
+10151-80000-00||Micro shear|Distance µm|<100|adhesive|10151-80000-00|adhesive##micro shear##distance µm##|<100||100.0|100.0
+10151-80000-00||RB tack|mm|>300|adhesive|10151-80000-00|adhesive##rb tack##mm##|>300|300.0||300.0
+10151-80000-00||Tg(℃)|DSC|-50~-60|adhesive|10151-80000-00|adhesive##tg(℃)##dsc##|-50~-60|-60.0|-50.0|-55.0
+10151-80000-00||Tg(℃)|DMA|7.2|adhesive|10151-80000-00|adhesive##tg(℃)##dma##|7.2|7.2|7.2|7.2
+14064-80000-80|Cello 33.135|Peel Adhesion (N/cm)|SUS|5|adhesive|14064-80000-80|adhesive##peel adhesion (n/cm)##sus##|5|5.0|5.0|5.0
+14064-80000-80||Peel Adhesion (N/cm)|PC|3|adhesive|14064-80000-80|adhesive##peel adhesion (n/cm)##pc##|3|3.0|3.0|3.0
+14064-80000-80||Holding Power (mins)|RT|>10000|adhesive|14064-80000-80|adhesive##holding power (mins)##rt##|>10000|10000.0||10000.0
+14064-80000-80||Edge taping|60/90|>7d|adhesive|14064-80000-80|adhesive##edge taping##60/90##|>7d|7.0||7.0
+14064-80000-80||Static Peel (mm)|50g,70℃ 24hr|0|adhesive|14064-80000-80|adhesive##static peel (mm)##50g,70℃ 24hr##|0|0.0|0.0|0.0
+14064-80000-80||Name Plate (mm)|30°,60/90 24hr|0|adhesive|14064-80000-80|adhesive##name plate (mm)##30°,60/90 24hr##|0|0.0|0.0|0.0
+14064-80000-80||Tg(℃)|DSC|-20|adhesive|14064-80000-80|adhesive##tg(℃)##dsc##|-20|-20.0|-20.0|-20.0
+14064-80000-80||Tg(℃)|DMA|-4|adhesive|14064-80000-80|adhesive##tg(℃)##dma##|-4|-4.0|-4.0|-4.0
+13783-40000-80|CELLO 33.23-25 PV80|Peel Adhesion (N/cm)|SUS|9.7|adhesive|13783-40000-80|adhesive##peel adhesion (n/cm)##sus##|9.7|9.7|9.7|9.7
+13783-40000-80||Peel Adhesion (N/cm)|PC|9.1|adhesive|13783-40000-80|adhesive##peel adhesion (n/cm)##pc##|9.1|9.1|9.1|9.1
+13783-40000-80||Peel Adhesion (N/cm)|PE|3.4|adhesive|13783-40000-80|adhesive##peel adhesion (n/cm)##pe##|3.4|3.4|3.4|3.4
+13783-40000-80||Holding Power (mins)|RT|>10000|adhesive|13783-40000-80|adhesive##holding power (mins)##rt##|>10000|10000.0||10000.0
+13783-40000-80||Holding Power (mins)|70℃|980|adhesive|13783-40000-80|adhesive##holding power (mins)##70℃##|980|980.0|980.0|980.0
+13783-40000-80||Micro shear|Distance µm|129|adhesive|13783-40000-80|adhesive##micro shear##distance µm##|129|129.0|129.0|129.0
+13783-40000-80||RB tack|mm|>600|adhesive|13783-40000-80|adhesive##rb tack##mm##|>600|600.0||600.0
+13783-40000-80||Tg(℃)|DSC|-18|adhesive|13783-40000-80|adhesive##tg(℃)##dsc##|-18|-18.0|-18.0|-18.0
+13783-40000-80||Tg(℃)|DMA|-2.6|adhesive|13783-40000-80|adhesive##tg(℃)##dma##|-2.6|-2.6|-2.6|-2.6
+10358-80000-00|Cello 33.214-30|Peel Adhesion (N/cm)|SUS|8.7|adhesive|10358-80000-00|adhesive##peel adhesion (n/cm)##sus##|8.7|8.7|8.7|8.7
+10358-80000-01|Cello 33.214-30|Peel Adhesion (N/cm)|PC||adhesive|10358-80000-01|adhesive##peel adhesion (n/cm)##pc##||||
+10358-80000-02|Cello 33.214-30|Peel Adhesion (N/cm)|PE||adhesive|10358-80000-02|adhesive##peel adhesion (n/cm)##pe##||||
+10358-80000-03|Cello 33.214-30|Holding Power (mins)|RT|10000|adhesive|10358-80000-03|adhesive##holding power (mins)##rt##|10000|10000.0|10000.0|10000.0
+10358-80000-04|Cello 33.214-30|Holding Power (mins)|70℃|1345|adhesive|10358-80000-04|adhesive##holding power (mins)##70℃##|1345|1345.0|1345.0|1345.0
+10358-80000-05|Cello 33.214-30|Micro shear|Distance µm|134|adhesive|10358-80000-05|adhesive##micro shear##distance µm##|134|134.0|134.0|134.0
+10358-80000-06|Cello 33.214-30|RB tack|mm||adhesive|10358-80000-06|adhesive##rb tack##mm##||||
+10358-80000-07|Cello 33.214-30|Tg(℃)|DSC|-23|adhesive|10358-80000-07|adhesive##tg(℃)##dsc##|-23|-23.0|-23.0|-23.0
+10358-80000-08|Cello 33.214-30|Tg(℃)|DMA|1.9|adhesive|10358-80000-08|adhesive##tg(℃)##dma##|1.9|1.9|1.9|1.9
+13044-70000-80|CELLO 33.108-25 D100k|Peel Adhesion (N/cm)|SUS|0.02|adhesive|13044-70000-80|adhesive##peel adhesion (n/cm)##sus##|0.02|0.02|0.02|0.02
+13044-70000-80|CELLO 33.108-25 D100k|Heat resistance|200℃ 8hrs|0.32|adhesive|13044-70000-80|adhesive##heat resistance##200℃ 8hrs##|0.32|0.32|0.32|0.32
+13044-70000-80|CELLO 33.108-25 D100k|Acid free||yes|adhesive|13044-70000-80|adhesive##acid free####|yes|||
+13841-60000-81|CELLO 33.04*|Peel Adhesion (N/cm)|SUS|0.02|adhesive|13841-60000-81|adhesive##peel adhesion (n/cm)##sus##|0.02|0.02|0.02|0.02
+13841-60000-81|CELLO 33.04*|Tg(℃)|DSC|-45|adhesive|13841-60000-81|adhesive##tg(℃)##dsc##|-45|-45.0|-45.0|-45.0
+13841-60000-81|CELLO 33.04*|Tg(℃)|DMA|<-35|adhesive|13841-60000-81|adhesive##tg(℃)##dma##|<-35||-35.0|-35.0
+13841-60000-81|CELLO 33.04*|Solod Content|%|47|adhesive|13841-60000-81|adhesive##solod content##%##|47|47.0|47.0|47.0
+13799-70000-81|CELLO 33.115-25 D100k|Peel Adhesion (N/cm)|SUS|0.12|adhesive|13799-70000-81|adhesive##peel adhesion (n/cm)##sus##|0.12|0.12|0.12|0.12
+13799-70000-81|CELLO 33.115-25 D100k|Peel Adhesion (N/cm)|PE|0.5|adhesive|13799-70000-81|adhesive##peel adhesion (n/cm)##pe##|0.5|0.5|0.5|0.5
+13799-70000-81|CELLO 33.115-25 D100k|Holding Power (mins)|RT|>10000|adhesive|13799-70000-81|adhesive##holding power (mins)##rt##|>10000|10000.0||10000.0
+13799-70000-81|CELLO 33.115-25 D100k|Micro shear|Distance µm|10|adhesive|13799-70000-81|adhesive##micro shear##distance µm##|10|10.0|10.0|10.0
+13799-70000-81|CELLO 33.115-25 D100k|Micro shear|Elasticity%|97|adhesive|13799-70000-81|adhesive##micro shear##elasticity%##|97|97.0|97.0|97.0
+13799-70000-81|CELLO 33.115-25 D100k|Heat resistance|120℃ 5hrs|No residue|adhesive|13799-70000-81|adhesive##heat resistance##120℃ 5hrs##|No residue|||
+10089-80000-00|CELLO 33.163-40|Peel Adhesion (N/cm)|SUS|6|adhesive|10089-80000-00|adhesive##peel adhesion (n/cm)##sus##|6|6.0|6.0|6.0
+10089-80000-00|CELLO 33.163-40|Peel Adhesion (N/cm)|PC|6.1|adhesive|10089-80000-00|adhesive##peel adhesion (n/cm)##pc##|6.1|6.1|6.1|6.1
+10089-80000-00|CELLO 33.163-40|Peel Adhesion (N/cm)|PE|2.6|adhesive|10089-80000-00|adhesive##peel adhesion (n/cm)##pe##|2.6|2.6|2.6|2.6
+10089-80000-00|CELLO 33.163-40|Holding Power (mins)|RT|>10000|adhesive|10089-80000-00|adhesive##holding power (mins)##rt##|>10000|10000.0||10000.0
+10089-80000-00|CELLO 33.163-40|Holding Power (mins)|70℃|1260|adhesive|10089-80000-00|adhesive##holding power (mins)##70℃##|1260|1260.0|1260.0|1260.0
+10089-80000-00|CELLO 33.163-40|Micro shear|Distance µm|102|adhesive|10089-80000-00|adhesive##micro shear##distance µm##|102|102.0|102.0|102.0
+10089-80000-00|CELLO 33.163-40|Micro shear|Elasticity%|76|adhesive|10089-80000-00|adhesive##micro shear##elasticity%##|76|76.0|76.0|76.0
+10089-80000-00|CELLO 33.163-40|RB tack|mm|126|adhesive|10089-80000-00|adhesive##rb tack##mm##|126|126.0|126.0|126.0
+10089-80000-00|CELLO 33.163-40|Tg(℃)|DSC|-28|adhesive|10089-80000-00|adhesive##tg(℃)##dsc##|-28|-28.0|-28.0|-28.0
+10089-80000-00|CELLO 33.163-40|Tg(℃)|DMA|-8.1|adhesive|10089-80000-00|adhesive##tg(℃)##dma##|-8.1|-8.1|-8.1|-8.1
+10011-80000-00|CELLO 33.150-30|Peel Adhesion (N/cm)|SUS|7.5|adhesive|10011-80000-00|adhesive##peel adhesion (n/cm)##sus##|7.5|7.5|7.5|7.5
+10011-80000-00|CELLO 33.150-30|Peel Adhesion (N/cm)|PC|7.4|adhesive|10011-80000-00|adhesive##peel adhesion (n/cm)##pc##|7.4|7.4|7.4|7.4
+10011-80000-00|CELLO 33.150-30|Peel Adhesion (N/cm)|PE|2.8|adhesive|10011-80000-00|adhesive##peel adhesion (n/cm)##pe##|2.8|2.8|2.8|2.8
+10011-80000-00|CELLO 33.150-30|Holding Power (mins)|RT|>8000|adhesive|10011-80000-00|adhesive##holding power (mins)##rt##|>8000|8000.0||8000.0
+10011-80000-00|CELLO 33.150-30|Holding Power (mins)|70℃|1732|adhesive|10011-80000-00|adhesive##holding power (mins)##70℃##|1732|1732.0|1732.0|1732.0
+10011-80000-00|CELLO 33.150-30|Micro shear|Distance µm|128|adhesive|10011-80000-00|adhesive##micro shear##distance µm##|128|128.0|128.0|128.0
+10011-80000-00|CELLO 33.150-30|Micro shear|Elasticity%|72|adhesive|10011-80000-00|adhesive##micro shear##elasticity%##|72|72.0|72.0|72.0
+10011-80000-00|CELLO 33.150-30|RB tack|mm|>600|adhesive|10011-80000-00|adhesive##rb tack##mm##|>600|600.0||600.0
+10011-80000-00|CELLO 33.150-30|Tg(℃)|DSC|-26|adhesive|10011-80000-00|adhesive##tg(℃)##dsc##|-26|-26.0|-26.0|-26.0
+10011-80000-00|CELLO 33.150-30|Tg(℃)|DMA|-0.2|adhesive|10011-80000-00|adhesive##tg(℃)##dma##|-0.2|-0.2|-0.2|-0.2
+02960-20000-83|Cello 33.14-*|Peel Adhesion (N/cm)|SUS|7.2|adhesive|02960-20000-83|adhesive##peel adhesion (n/cm)##sus##|7.2|7.2|7.2|7.2
+02960-20000-83||Peel Adhesion (N/cm)|PC|6.5|adhesive|02960-20000-83|adhesive##peel adhesion (n/cm)##pc##|6.5|6.5|6.5|6.5
+02960-20000-83||Peel Adhesion (N/cm)|PE|3|adhesive|02960-20000-83|adhesive##peel adhesion (n/cm)##pe##|3|3.0|3.0|3.0
+02960-20000-83||Holding Power (mins)|RT|6000|adhesive|02960-20000-83|adhesive##holding power (mins)##rt##|6000|6000.0|6000.0|6000.0
+02960-20000-83||Holding Power (mins)|70℃|621|adhesive|02960-20000-83|adhesive##holding power (mins)##70℃##|621|621.0|621.0|621.0
+02960-20000-83||Micro shear|Distance µm|72|adhesive|02960-20000-83|adhesive##micro shear##distance µm##|72|72.0|72.0|72.0
+02960-20000-83||RB tack|mm|160|adhesive|02960-20000-83|adhesive##rb tack##mm##|160|160.0|160.0|160.0
+02960-20000-83||Tg(℃)|DSC|-23|adhesive|02960-20000-83|adhesive##tg(℃)##dsc##|-23|-23.0|-23.0|-23.0
+02960-20000-83||Tg(℃)|DMA|-5.5|adhesive|02960-20000-83|adhesive##tg(℃)##dma##|-5.5|-5.5|-5.5|-5.5

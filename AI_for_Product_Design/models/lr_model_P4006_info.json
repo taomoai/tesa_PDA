@@ -1,0 +1,93 @@
+{
+  "feature_columns": [
+    "feature##backing_thickness",
+    "feature##cover_adhesive_PA",
+    "feature##cover_coating_weight",
+    "feature##open_adhesive_PA",
+    "feature##open_coating_weight"
+  ],
+  "coefficients": [
+    -0.004871404147540337,
+    2.30178827432719,
+    1.2135201623807625,
+    0.10397029844583777,
+    0.0
+  ],
+  "intercept": 6.66875,
+  "scaler_mean": [
+    10.083333333333334,
+    6.215,
+    26895.833333333332,
+    6.95,
+    28895.833333333332
+  ],
+  "scaler_scale": [
+    6.57594522145338,
+    2.947554070750866,
+    14008.91023499766,
+    1.82208671582886,
+    14047.522888593405
+  ],
+  "cv_folds": 5,
+  "avg_train_mse": 0.2749887520154122,
+  "avg_train_r2": 0.9773538687868291,
+  "avg_val_mse": 0.48621207741491457,
+  "avg_val_r2": 0.9562512188838681,
+  "std_val_mse": 0.33952671218328184,
+  "std_val_r2": 0.0324557200536103,
+  "overall_val_mse": 0.48621207741491457,
+  "overall_val_r2": 0.9605536246915102,
+  "final_test_mse": 0.3900657761431985,
+  "final_test_r2": 0.9843476728154612,
+  "fold_results": [
+    {
+      "fold": 1,
+      "train_mse": 0.17042505814860853,
+      "train_r2": 0.9872127218433566,
+      "val_mse": 0.8023615262401456,
+      "val_r2": 0.9011506525400342,
+      "train_samples": 24,
+      "val_samples": 6
+    },
+    {
+      "fold": 2,
+      "train_mse": 0.20765259129353594,
+      "train_r2": 0.9815889783465305,
+      "val_mse": 0.9464442839085229,
+      "val_r2": 0.9394977484416622,
+      "train_samples": 24,
+      "val_samples": 6
+    },
+    {
+      "fold": 3,
+      "train_mse": 0.341633264911088,
+      "train_r2": 0.9719201929549913,
+      "val_mse": 0.07644943447118592,
+      "val_r2": 0.9924963748269734,
+      "train_samples": 24,
+      "val_samples": 6
+    },
+    {
+      "fold": 4,
+      "train_mse": 0.3312789352561815,
+      "train_r2": 0.9697758186156997,
+      "val_mse": 0.4243883931857102,
+      "val_r2": 0.9751534094907881,
+      "train_samples": 24,
+      "val_samples": 6
+    },
+    {
+      "fold": 5,
+      "train_mse": 0.3239539104676467,
+      "train_r2": 0.9762716321735673,
+      "val_mse": 0.1814167492690083,
+      "val_r2": 0.9729579091198828,
+      "train_samples": 24,
+      "val_samples": 6
+    }
+  ],
+  "n_features": 5,
+  "n_samples": 30,
+  "n_train_samples": 24,
+  "n_test_samples": 6
+}

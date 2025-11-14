@@ -1,0 +1,150 @@
+Liner|Serial Number|Description|Limits / Requirements|Units|Test Methods|type|NART|property_key|property_value|lb|ub|target_value
+22857-90000-00|1.1.1|Colour|White||JOPM0041 comparison with reference sample|liner|22857-90000-00|liner##colour####|White|||
+22857-90000-00|1.1.2|Surface free of foreign material, uniform texture|Surface free of foreign material, uniform texture||visual|liner|22857-90000-00|liner##surface free of foreign material, uniform texture####|Surface free of foreign material, uniform texture|||
+22857-90000-00|1.1.3|Full coverage, uniform spread|Full coverage, uniform spread||JOPM0041 comparison with reference sample|liner|22857-90000-00|liner##full coverage, uniform spread####|Full coverage, uniform spread|||
+22857-90000-00|1.1.4|Rub-off grade|1 – 1.5||JOPM0200 thumb test|liner|22857-90000-00|liner##rub-off grade####|1 – 1.5|1.0|1.5|1.25
+22857-90000-00|1.2.1|Thickness|69 ± 6|µm|DIN EN ISO 534 (5)|liner|22857-90000-00|liner##thickness##µm##|69 ± 6|63.0|75.0|69.0
+22857-90000-00|1.2.2|Basis weight|80 ± 5|g/m²|DIN EN ISO 536 (5) (sample size = 100cm²)|liner|22857-90000-00|liner##basis weight##g/m²##|80 ± 5|75.0|85.0|80.0
+22857-90000-00|1.2.3|Tensile strength|≥ 90|N/15mm|DIN-ISO EN 1924.2 (5) (test speed 300mm/min, length 100mm)|liner|22857-90000-00|liner##tensile strength##n/15mm##|≥ 90|90.0||90.0
+22857-90000-00|1.2.4|Moisture|≥ 42|%|DIN-ISO EN 287 Mondi Jülich: Moistrex PA 005|liner|22857-90000-00|liner##moisture##%##|≥ 42|42.0||42.0
+22857-90000-00|1.3.1|Silicone coating weight (Supplier Method)|1.35 ± 0.1|g/m²|Mondi Jülich: PA 006 Oxford Lab-X3500|liner|22857-90000-00|liner##silicone coating weight (supplier method)##g/m²##|1.35 ± 0.1|1.25|1.4500000000000002|1.35
+22857-90000-00|1.3.2|Silicone coating weight (tesa Method)|1.35 ± 0.1|g/m²|tesa: JOPM027 2.4, XRF|liner|22857-90000-00|liner##silicone coating weight (tesa method)##g/m²##|1.35 ± 0.1|1.25|1.4500000000000002|1.35
+22857-90000-00|1.4.1|Release force (Natural rubber, easy side*) JOPMH003 K 50110/24h 40°C (3)|2 - 15|cN/cm|JOPMH003 K 50110/24h 40°C (3)|liner|22857-90000-00|liner##release force (natural rubber, easy side*) jopmh003 k 50110/24h 40°c (3)##cn/cm##|2 - 15|2.0|15.0|8.5
+22857-90000-00|1.4.2|Release force (Natural rubber, easy side*) Mondi Jülich: PA 4012|2 - 20|cN/cm|Mondi Jülich: PA 4012|liner|22857-90000-00|liner##release force (natural rubber, easy side*) mondi jülich: pa 4012##cn/cm##|2 - 20|2.0|20.0|11.0
+22857-90000-00|1.4.3|Release force (Natural rubber, easy side*) JOPMH003 A 7475/24h 70°C (3)|3 - 15|cN/cm|JOPMH003 A 7475/24h 70°C (3)|liner|22857-90000-00|liner##release force (natural rubber, easy side*) jopmh003 a 7475/24h 70°c (3)##cn/cm##|3 - 15|3.0|15.0|9.0
+22857-90000-00|1.4.4|Release force (Natural rubber, easy side*) Mondi Jülich: PA 4022|4 - 15|cN/cm|Mondi Jülich: PA 4022|liner|22857-90000-00|liner##release force (natural rubber, easy side*) mondi jülich: pa 4022##cn/cm##|4 - 15|4.0|15.0|9.5
+22857-90000-00|1.5.1|Loss of peel adhesion (easy side*)|≤ 20|%||liner|22857-90000-00|liner##loss of peel adhesion (easy side*)##%##|≤ 20||20.0|20.0
+22857-90000-00|1.5.2|Loss of peel adhesion (tight side*)|≤ 20|%||liner|22857-90000-00|liner##loss of peel adhesion (tight side*)##%##|≤ 20||20.0|20.0
+22857-90000-00|1.6.1|Anchorage of Print Ink on dense paper side|test tape has to be removed after contact to the printed side. No or slight residues of printing ink are acceptable||JOPM0031 Tesa 4124 at RT|liner|22857-90000-00|liner##anchorage of print ink on dense paper side####|test tape has to be removed after contact to the printed side. No or slight residues of printing ink are acceptable|||
+22857-90000-00|1.6.2|Wipe off test (printed side [Water, acetone, Iso-Prop, Toluo])|Wiping with tinctures cloth on the siliconizes surface does not lead to smear of the ink||JOPM0133|liner|22857-90000-00|liner##wipe off test (printed side [water, acetone, iso-prop, toluo])####|Wiping with tinctures cloth on the siliconizes surface does not lead to smear of the ink|||
+23039-90000-08|1.1.1|Colour|White||comparison with reference sample|liner|23039-90000-08|liner##colour####|White|||
+23039-90000-08|1.1.2|Surface Quality|Free of foreign material, uniform texture||visual|liner|23039-90000-08|liner##surface quality####|Free of foreign material, uniform texture|||
+23039-90000-08|1.1.3|Silicone Layer|Full coverage, uniform spread||JOPM1011 stain-test, comparison with reference sample Talbo method: WI-QA-036|liner|23039-90000-08|liner##silicone layer####|Full coverage, uniform spread|||
+23039-90000-08|1.1.4|Silicone anchorage|Rub-off grade: 1-1.5||JOPM0200 thumb test|liner|23039-90000-08|liner##silicone anchorage####|Rub-off grade: 1-1.5|||
+23039-90000-08|1.2.1|Thickness|67±6|µm|DIN EN 20534|liner|23039-90000-08|liner##thickness##µm##|67±6|61.0|73.0|67.0
+23039-90000-08|1.2.2|Weight per unit area|80±5|g/m²|DIN EN ISO 536|liner|23039-90000-08|liner##weight per unit area##g/m²##|80±5|75.0|85.0|80.0
+23039-90000-08|1.2.3|Tensile force MD|>75|N/15mm|DIN-ISO EN1924.2 (test speed 300mm/min, length 100mm)|liner|23039-90000-08|liner##tensile force md##n/15mm##|>75|75.0||75.0
+23039-90000-08|1.2.4|Tensile Force CD|>42|%|DIN EN 20287 Talbo: WI-QA-021|liner|23039-90000-08|liner##tensile force cd##%##|>42|42.0||42.0
+23039-90000-08|1.2.5|Moisture* (preliminary)|2.5-6|||liner|23039-90000-08|liner##moisture* (preliminary)####|2.5-6|2.5|6.0|4.25
+23039-90000-08|1.3.1|Easy side|1.6±0.2|g/m²|tesa: JOPM027 ⁴|liner|23039-90000-08|liner##easy side##g/m²##|1.6±0.2|1.4000000000000001|1.8|1.6
+23039-90000-08|1.3.2|Tight side|1.6±0.2|g/m²|Talbo: TB-PF-04 Oxford Lab-XRF3500|liner|23039-90000-08|liner##tight side##g/m²##|1.6±0.2|1.4000000000000001|1.8|1.6
+23039-90000-08|1.4.1|Acrylic, easy side|2 - 15|cN/cm|JOPMH003 A 7475/24h 70°C ²|liner|23039-90000-08|liner##acrylic, easy side##cn/cm##|2 - 15|2.0|15.0|8.5
+23039-90000-08|1.4.2|Acrylic, tight side|3 - 15|cN/cm|JOPMH003 A 7475/24h 70°C ²|liner|23039-90000-08|liner##acrylic, tight side##cn/cm##|3 - 15|3.0|15.0|9.0
+23039-90000-08|1.5.1|Easy side|≤20|%|JOPMH003 A 7475/24h 70°C ²|liner|23039-90000-08|liner##easy side##%##|≤20||20.0|20.0
+23039-90000-08|1.5.2|Tight side|≤20|%|JOPMH003 A 7475/24h 70°C ²|liner|23039-90000-08|liner##tight side##%##|≤20||20.0|20.0
+23039-90000-08|1.6.1|Anchorage on printed side|After removal of test tape from the printed side, ink particles are not accepted, slight or no ink layer transfer is accepted, no obvious colour change on test part||Talbo method: WI-QA-026 Test tape: 3M 681 and tesa 4331 Comparable to reference sample and picture.|liner|23039-90000-08|liner##anchorage on printed side####|After removal of test tape from the printed side, ink particles are not accepted, slight or no ink layer transfer is accepted, no obvious colour change on test part|||
+23039-90000-08|1.6.2|Wipe off test (printed side) [water, acetone, ethanol, Iso-prop, ethyl acetate]|Wipe with solvent drenched cloth on the silicone surface does not lead to smear of the ink||JOPM133 Comparable to reference sample and picture.|liner|23039-90000-08|liner##wipe off test (printed side) [water, acetone, ethanol, iso-prop, ethyl acetate]####|Wipe with solvent drenched cloth on the silicone surface does not lead to smear of the ink|||
+21061-90000-00|1.1.1|Colour|Transparent||comparison with reference sample|liner|21061-90000-00|liner##colour####|Transparent|||
+21061-90000-00|1.1.2|Surface Quality|Lubricant and dust-free surface No brush and claw marks||visual|liner|21061-90000-00|liner##surface quality####|Lubricant and dust-free surface No brush and claw marks|||
+21061-90000-00|1.1.3|Silicone Layer|Has to be complete, no free parts of silicone or strips, uniform structure||has to clarified very soon and added here|liner|21061-90000-00|liner##silicone layer####|Has to be complete, no free parts of silicone or strips, uniform structure|||
+21061-90000-00|1.1.4|Silicone anchorage|No rub off||thumb test|liner|21061-90000-00|liner##silicone anchorage####|No rub off|||
+21061-90000-00|1.2.1|Thickness|50±4|µm|DIN EN 20534|liner|21061-90000-00|liner##thickness##µm##|50±4|46.0|54.0|50.0
+21061-90000-00|1.2.2|Weight per unit area|72±4|g/m²|DIN EN ISO 2286-2|liner|21061-90000-00|liner##weight per unit area##g/m²##|72±4|68.0|76.0|72.0
+21061-90000-00|1.2.3|Tensile force MD|≥105|N/15mm|DIN EN ISO 527-3 (Test speed = 300mm/min; Measure length = 100mm)|liner|21061-90000-00|liner##tensile force md##n/15mm##|≥105|105.0||105.0
+21061-90000-00|1.2.4|Elongation at break MD|≥55|%||liner|21061-90000-00|liner##elongation at break md##%##|≥55|55.0||55.0
+21061-90000-00|1.2.5|Shrinkage|0-3|%|Test-piece: 100 x 100 mm Test-conditions: 15 min; 150 °C (circulate)|liner|21061-90000-00|liner##shrinkage##%##|0-3|0.0|3.0|1.5
+21061-90000-00|1.3.1|Outside|0.07-0.2|g/m²|tesa: JOPMI027 XRF analysis e. g. Oxford Lab-X3000|liner|21061-90000-00|liner##outside##g/m²##|0.07-0.2|0.07|0.2|0.135
+21061-90000-00|1.4.1|Acrylic, outside|3~14|cN/cm|JOPMI003 A 7475/24h 70°C ²|liner|21061-90000-00|liner##acrylic, outside##cn/cm##|3~14|3.0|14.0|8.5
+21061-90000-00|1.5.1|Outside|≤15|%|JOPMI003 A 7475/24h 70°C ²|liner|21061-90000-00|liner##outside##%##|≤15||15.0|15.0
+20291-90000-80|1.1.1|Colour|Transparent||comparison with reference sample|liner|20291-90000-80|liner##colour####|Transparent|||
+20291-90000-80|1.1.2|Surface Quality|Lubricant and dust-free surface No brush and claw marks||visual|liner|20291-90000-80|liner##surface quality####|Lubricant and dust-free surface No brush and claw marks|||
+20291-90000-80|1.1.3|Silicone Layer|Has to be complete, no free parts of silicone or strips, uniform structure||comparison with reference sample|liner|20291-90000-80|liner##silicone layer####|Has to be complete, no free parts of silicone or strips, uniform structure|||
+20291-90000-80|1.1.4|Silicone anchorage|No rub off||thumb test|liner|20291-90000-80|liner##silicone anchorage####|No rub off|||
+20291-90000-80|1.2.1|Thickness|36±3|µm|DIN EN 20534|liner|20291-90000-80|liner##thickness##µm##|36±3|33.0|39.0|36.0
+20291-90000-80|1.2.2|Weight per unit area|52±4|g/m²|DIN EN ISO 2286-2|liner|20291-90000-80|liner##weight per unit area##g/m²##|52±4|48.0|56.0|52.0
+20291-90000-80|1.2.3|Tensile force MD|≥65|N/15mm|DIN EN ISO 527-3 (Test speed = 300mm/min; Measure length = 100mm)|liner|20291-90000-80|liner##tensile force md##n/15mm##|≥65|65.0||65.0
+20291-90000-80|1.2.4|Elongation at break MD|≥55|%||liner|20291-90000-80|liner##elongation at break md##%##|≥55|55.0||55.0
+20291-90000-80|1.2.5|Shrinkage|0-3|%|Test-piece: 100×100mm Test-conditions: 15min; 150°C (circulate)|liner|20291-90000-80|liner##shrinkage##%##|0-3|0.0|3.0|1.5
+20291-90000-80|1.3.1|Outside|0.09-0.30|g/m²|tesa: JOPMI027 XRF analysis e. g. Oxford Lab-X3000|liner|20291-90000-80|liner##outside##g/m²##|0.09-0.30|0.09|0.3|0.195
+20291-90000-80|1.4.1|Acrylic, outside|3 - 10|cN/cm|JOPMI003 A 7475/24h 70°C ²|liner|20291-90000-80|liner##acrylic, outside##cn/cm##|3 - 10|3.0|10.0|6.5
+20291-90000-80|1.5.1|Outside|≤20|%|JOPMI003 A 7475/24h 70°C ²|liner|20291-90000-80|liner##outside##%##|≤20||20.0|20.0
+23034-90000-01|1.1.1|Colour|Transparent||JOPM0041 comparison with reference sample|liner|23034-90000-01|liner##colour####|Transparent|||
+23034-90000-01|1.1.2|Surface Quality|Silicone coating free of foreign material, uniform texture||visual|liner|23034-90000-01|liner##surface quality####|Silicone coating free of foreign material, uniform texture|||
+23034-90000-01|1.1.3|Silicone Layer|Full coverage, uniform spread||stain-test, comparison with reference sample|liner|23034-90000-01|liner##silicone layer####|Full coverage, uniform spread|||
+23034-90000-01|1.1.4|Silicone anchorage|Rub-off grade: 2||JOPM0200 thumb test Siliconature Mi-07|liner|23034-90000-01|liner##silicone anchorage####|Rub-off grade: 2|||
+23034-90000-01|1.3.1|Silicone side|0.08-0.3|g/m²|tesa: JOPM1027 2,4, Oxford Lab-X3000 Siliconature: XRF(MI66)|liner|23034-90000-01|liner##silicone side##g/m²##|0.08-0.3|0.08|0.3|0.19
+23034-90000-01|1.4.1|Acrylic, silicone side|7-25|cN/cm|JOPMH003 A 7475/24h 70°C 2 Siliconature method MI-45|liner|23034-90000-01|liner##acrylic, silicone side##cn/cm##|7-25|7.0|25.0|16.0
+23034-90000-01|1.5.1|Silicone side|≤20|%|JOPMH003 A 7475/24h 70°C 2 Siliconature method MI-21|liner|23034-90000-01|liner##silicone side##%##|≤20||20.0|20.0
+23033-90000-01|1.1.1|Colour|Transparent||JOPM0041 comparison with reference sample|liner|23033-90000-01|liner##colour####|Transparent|||
+23033-90000-01|1.1.2|Surface Quality|Silicone coating free of foreign material, uniform texture||visual|liner|23033-90000-01|liner##surface quality####|Silicone coating free of foreign material, uniform texture|||
+23033-90000-01|1.1.3|Silicone Layer|Full coverage, uniform spread||stain-test, comparison with reference sample|liner|23033-90000-01|liner##silicone layer####|Full coverage, uniform spread|||
+23033-90000-01|1.1.4|Silicone anchorage|Rub-off grade: 2||JOPM0200 thumb test Siliconature MI-07|liner|23033-90000-01|liner##silicone anchorage####|Rub-off grade: 2|||
+23033-90000-01|1.3.1|Silicone side|0.08-0.3|g/m²|tesa: JOPM1027 2,4, Oxford Lab-X3000 Siliconature: XRF(MI66)|liner|23033-90000-01|liner##silicone side##g/m²##|0.08-0.3|0.08|0.3|0.19
+23033-90000-01|1.4.1|Acrylic, silicone side|3-8|cN/cm|JOPMH003 A 7475/24h 70°C 2 Siliconature method MI-45|liner|23033-90000-01|liner##acrylic, silicone side##cn/cm##|3-8|3.0|8.0|5.5
+23033-90000-01|1.5.1|Silicone side|≤20|%|JOPMH003 A 7475/24h 70°C 2 Siliconature method MI-21|liner|23033-90000-01|liner##silicone side##%##|≤20||20.0|20.0
+23019-90000-00|1.1.1|Colour|Green blue||comparison with reference sample|liner|23019-90000-00|liner##colour####|Green blue|||
+23019-90000-00|1.1.2|Surface Quality|Lubricant and dust-free surface; No brush and claw marks||visual|liner|23019-90000-00|liner##surface quality####|Lubricant and dust-free surface; No brush and claw marks|||
+23019-90000-00|1.1.3|Silicone Layer|Complete, no free parts of silicone or strips, uniform structure||comparison with reference sample|liner|23019-90000-00|liner##silicone layer####|Complete, no free parts of silicone or strips, uniform structure|||
+23019-90000-00|1.1.4|Silicone anchorage|No rub off||thumb test|liner|23019-90000-00|liner##silicone anchorage####|No rub off|||
+23019-90000-00|1.2.1|Thickness|50 ± 4|µm|DIN EN 20534|liner|23019-90000-00|liner##thickness##µm##|50 ± 4|46.0|54.0|50.0
+23019-90000-00|1.2.2|Weight per unit area|72 ± 4|g/m²|DIN EN ISO 2286-2|liner|23019-90000-00|liner##weight per unit area##g/m²##|72 ± 4|68.0|76.0|72.0
+23019-90000-00|1.2.3|Tensile force MD|≥ 105|N/15mm|DIN EN ISO 527-3 (Test speed = 300mm/min; Measure length = 100mm)|liner|23019-90000-00|liner##tensile force md##n/15mm##|≥ 105|105.0||105.0
+23019-90000-00|1.2.4|Elongation at break MD|≥ 55|%|DIN EN ISO 527-3|liner|23019-90000-00|liner##elongation at break md##%##|≥ 55|55.0||55.0
+23038-90000-08|1.1.1|Colour|Havanna||comparison with reference sample|liner|23038-90000-08|liner##colour####|Havanna|||
+23038-90000-08|1.1.2|Surface Quality|Free of foreign material, uniform texture||visual|liner|23038-90000-08|liner##surface quality####|Free of foreign material, uniform texture|||
+23038-90000-08|1.1.3|Silicone Layer|Full coverage, uniform spread||JOPMI011 stain-test, comparison with reference sample Taibo method: WI-QA-036|liner|23038-90000-08|liner##silicone layer####|Full coverage, uniform spread|||
+23038-90000-08|1.1.4|Silicone anchorage|Rub-off grade: 1-1.5||JOPM0200 thumb test|liner|23038-90000-08|liner##silicone anchorage####|Rub-off grade: 1-1.5|||
+23038-90000-08|1.2.1|Thickness|67±6|µm|DIN EN 20534|liner|23038-90000-08|liner##thickness##µm##|67±6|61.0|73.0|67.0
+23038-90000-08|1.2.2|Weight per unit area|80±5|g/m²|DIN EN ISO 536|liner|23038-90000-08|liner##weight per unit area##g/m²##|80±5|75.0|85.0|80.0
+23038-90000-08|1.2.3|Tensile force MD|>75|N/15mm|DIN-ISO EN1924.2 (test speed 300mm/min, length 100mm)|liner|23038-90000-08|liner##tensile force md##n/15mm##|>75|75.0||75.0
+23038-90000-08|1.2.4|Tensile Force CD|>42|N/15mm|DIN-ISO EN1924.2 (test speed 300mm/min, length 100mm)|liner|23038-90000-08|liner##tensile force cd##n/15mm##|>42|42.0||42.0
+23038-90000-08|1.2.5|Moisture|2.5-6|%|DIN EN 20287 Taibo: WI-QA-021|liner|23038-90000-08|liner##moisture##%##|2.5-6|2.5|6.0|4.25
+23038-90000-08|1.3.1|Easy side|1.6±0.2|g/m²|tesa: JOPMI027 Taibo: TB-PF-04|liner|23038-90000-08|liner##easy side##g/m²##|1.6±0.2|1.4000000000000001|1.8|1.6
+23038-90000-08|1.3.2|Tight side|1.6±0.2|g/m²|Oxford Lab-XRF3500|liner|23038-90000-08|liner##tight side##g/m²##|1.6±0.2|1.4000000000000001|1.8|1.6
+23038-90000-08|1.4.1|Acrylic, easy side|2 - 15|cN/cm|JOPMH003 A 7475/24h 70°C|liner|23038-90000-08|liner##acrylic, easy side##cn/cm##|2 - 15|2.0|15.0|8.5
+23038-90000-08|1.4.2|Acrylic, tight side|3 - 15|cN/cm|JOPMH003 A 7475/24h 70°C|liner|23038-90000-08|liner##acrylic, tight side##cn/cm##|3 - 15|3.0|15.0|9.0
+23038-90000-08|1.5.1|Easy side|≤20|%|JOPMH003 A 7475/24h 70°C|liner|23038-90000-08|liner##easy side##%##|≤20||20.0|20.0
+23038-90000-08|1.5.2|Tight side|≤20|%|JOPMH003 A 7475/24h 70°C|liner|23038-90000-08|liner##tight side##%##|≤20||20.0|20.0
+22872-90000-00|1.1.1|Colour|Havanna||J0PM0041 comparison with reference sample|liner|22872-90000-00|liner##colour####|Havanna|||
+22872-90000-00|1.1.2|Surface Quality|Surface free of foreign material, uniform texture||visual|liner|22872-90000-00|liner##surface quality####|Surface free of foreign material, uniform texture|||
+22872-90000-00|1.1.3|Silicone Layer|Full coverage, uniform spread||J0PM0041 comparison with reference sample|liner|22872-90000-00|liner##silicone layer####|Full coverage, uniform spread|||
+22872-90000-00|1.1.4|Silicone anchorage|Rub-off grade: 1 - 1.5||J0PM0200 thumb test|liner|22872-90000-00|liner##silicone anchorage####|Rub-off grade: 1 - 1.5|||
+22872-90000-00|1.2.1|Thickness|69 ± 6|µm|DIN EN ISO 534|liner|22872-90000-00|liner##thickness##µm##|69 ± 6|63.0|75.0|69.0
+22872-90000-00|1.2.2|Weight per unit area|80 ± 5|g/m²|DIN EN ISO 536 (sample size = 100cm²)|liner|22872-90000-00|liner##weight per unit area##g/m²##|80 ± 5|75.0|85.0|80.0
+22872-90000-00|1.2.3|Tensile force MD|≥ 90|N/15mm|DIN-ISO EN 1924.2 (test speed 300mm/min, length 100mm)|liner|22872-90000-00|liner##tensile force md##n/15mm##|≥ 90|90.0||90.0
+22872-90000-00|1.2.4|Tensile Force CD|≥ 42|N/15mm|DIN-ISO EN 1924.2 (test speed 300mm/min, length 100mm)|liner|22872-90000-00|liner##tensile force cd##n/15mm##|≥ 42|42.0||42.0
+22872-90000-00|1.2.5|Moisture|3.5 - 5.5|%|DIN-ISO EN 287 Mondi Jülich: Moistrex PA 005|liner|22872-90000-00|liner##moisture##%##|3.5 - 5.5|3.5|5.5|4.5
+22872-90000-00|1.3.1|easy side|1.35 ± 0.1|g/m²|tesa: J0PMI027, XRF Mondi Jülich: PA 006 Oxford Lab-X3500|liner|22872-90000-00|liner##easy side##g/m²##|1.35 ± 0.1|1.25|1.4500000000000002|1.35
+22872-90000-00|1.3.2|tight side|1.35 ± 0.1|g/m²|tesa: J0PMI027, XRF Mondi Jülich: PA 006 Oxford Lab-X3500|liner|22872-90000-00|liner##tight side##g/m²##|1.35 ± 0.1|1.25|1.4500000000000002|1.35
+22872-90000-00|1.4.1|Natural rubber, easy side|2 - 15|cN/cm|JOPMH003 K 50110/24h 40°C|liner|22872-90000-00|liner##natural rubber, easy side##cn/cm##|2 - 15|2.0|15.0|8.5
+22872-90000-00|1.4.2|Natural rubber, tight side|2 - 20|cN/cm|JOPMH003 K 50110/24h 40°C|liner|22872-90000-00|liner##natural rubber, tight side##cn/cm##|2 - 20|2.0|20.0|11.0
+22872-90000-00|1.4.3|Acrylic, easy side|3 - 15|cN/cm|JOPMH003 A 7475/24h 70°C|liner|22872-90000-00|liner##acrylic, easy side##cn/cm##|3 - 15|3.0|15.0|9.0
+22872-90000-00|1.4.4|Acrylic, tight side|4 - 15|cN/cm|JOPMH003 A 7475/24h 70°C|liner|22872-90000-00|liner##acrylic, tight side##cn/cm##|4 - 15|4.0|15.0|9.5
+22872-90000-00|1.5.1|easy side|≤ 20|%|JOPMH003 A 7475/24h 70°C Mondi Jülich: PA 4.31|liner|22872-90000-00|liner##easy side##%##|≤ 20||20.0|20.0
+22872-90000-00|1.5.2|tight side|≤ 20|%|JOPMH003 A 7475/24h 70°C Mondi Jülich: PA 4.31|liner|22872-90000-00|liner##tight side##%##|≤ 20||20.0|20.0
+20292-90000-80|1.1.1|Colour|Transparent||comparison with reference sample|liner|20292-90000-80|liner##colour####|Transparent|||
+20292-90000-80|1.1.2|Surface Quality|Lubricant and dust-free surface No brush and claw marks||visual|liner|20292-90000-80|liner##surface quality####|Lubricant and dust-free surface No brush and claw marks|||
+20292-90000-80|1.1.3|Silicone Layer|Has to be complete, no free parts of silicone or strips, uniform structure||comparison with reference sample|liner|20292-90000-80|liner##silicone layer####|Has to be complete, no free parts of silicone or strips, uniform structure|||
+20292-90000-80|1.1.4|Silicone anchorage|No rub off||thumb test|liner|20292-90000-80|liner##silicone anchorage####|No rub off|||
+20292-90000-80|1.2.1|Thickness|50±4|µm|DIN EN 20534|liner|20292-90000-80|liner##thickness##µm##|50±4|46.0|54.0|50.0
+20292-90000-80|1.2.2|Weight per unit area|72±4|g/m²|DIN EN ISO 2286-2|liner|20292-90000-80|liner##weight per unit area##g/m²##|72±4|68.0|76.0|72.0
+20292-90000-80|1.2.3|Tensile force MD|≥105|N/15mm|DIN EN ISO 527-3 (Test speed = 300mm/min; Measure length = 100mm)|liner|20292-90000-80|liner##tensile force md##n/15mm##|≥105|105.0||105.0
+20292-90000-80|1.2.4|Elongation at break MD|≥55|%|DIN EN ISO 527-3 (Test speed = 300mm/min; Measure length = 100mm)|liner|20292-90000-80|liner##elongation at break md##%##|≥55|55.0||55.0
+20292-90000-80|1.2.5|Shrinkage|0-3|%|Test-piece:100×100mm Test-conditions: 15min; 150°C (circulate)|liner|20292-90000-80|liner##shrinkage##%##|0-3|0.0|3.0|1.5
+20292-90000-80|1.3.1|Outside|0.09-0.30 (low rainbow)|g/m²|tesa: J0PMI027 XRF analysis e. g. Oxford Lab-X3000|liner|20292-90000-80|liner##outside##g/m²##|0.09-0.30 (low rainbow)|0.09|0.3|0.195
+20292-90000-80|1.4.1|Acrylic, outside|13-27|cN/cm|JOPMH003 A 7475/24h 70°C|liner|20292-90000-80|liner##acrylic, outside##cn/cm##|13-27|13.0|27.0|20.0
+20292-90000-80|1.5.1|Outside|≤20|%|JOPMH003 A 7475/24h 70°C|liner|20292-90000-80|liner##outside##%##|≤20||20.0|20.0
+21103-90000-00|1.1.1|Colour|Transparent||JOPM 0041 comparison with reference sample|liner|21103-90000-00|liner##colour####|Transparent|||
+21103-90000-00|1.1.2|Surface Quality|Free of foreign material, uniform texture||visual|liner|21103-90000-00|liner##surface quality####|Free of foreign material, uniform texture|||
+21103-90000-00|1.1.3|Silicone Layer|Full coverage, uniform spread||JOPMI 011 stain-test, comparison with reference sample|liner|21103-90000-00|liner##silicone layer####|Full coverage, uniform spread|||
+21103-90000-00|1.1.4|Silicone anchorage|Rub-off grade: 2||J0PM0200 thumb test|liner|21103-90000-00|liner##silicone anchorage####|Rub-off grade: 2|||
+21103-90000-00|1.2.1|Thickness|50±4|µm|DIN EN 20534 1)|liner|21103-90000-00|liner##thickness##µm##|50±4|46.0|54.0|50.0
+21103-90000-00|1.2.2|Weight per unit area|72±4|g/m²|DIN EN ISO 2286-2 1)|liner|21103-90000-00|liner##weight per unit area##g/m²##|72±4|68.0|76.0|72.0
+21103-90000-00|1.2.3|Tensile force MD|≥105|N/15mm|DIN-ISO EN 527 (films) (Test speed=300 mm/min, Measure length=100mm)|liner|21103-90000-00|liner##tensile force md##n/15mm##|≥105|105.0||105.0
+21103-90000-00|1.2.4|Elongation at break MD|≥55|%|DIN-ISO EN 527 (films) (Test speed=300 mm/min, Measure length=100mm)|liner|21103-90000-00|liner##elongation at break md##%##|≥55|55.0||55.0
+21103-90000-00|1.2.5|Shrinkage|0-3|%|Test-piece:100x100mm Test-conditions:15min; 150°C (air circulation)|liner|21103-90000-00|liner##shrinkage##%##|0-3|0.0|3.0|1.5
+21103-90000-00|1.3.1|Silicone side|0.07-0.2|g/m²|tesa:J0PMI0271.2.4), suppliers XRF device, e.g. Oxford Lab-X3000|liner|21103-90000-00|liner##silicone side##g/m²##|0.07-0.2|0.07|0.2|0.135
+21103-90000-00|1.4.1|Acrylic, silicone side||cN/cm|JOPMH003A7475/24h70°C 2)|liner|21103-90000-00|liner##acrylic, silicone side##cn/cm##||||
+21103-90000-00|1.5.1|Silicone side|≤20|%|JOPMH003A7475/24h70°C 2)|liner|21103-90000-00|liner##silicone side##%##|≤20||20.0|20.0
+21104-90000-00|1.1.1|Colour|Transparent||JOPM 0041 comparison with reference sample|liner|21104-90000-00|liner##colour####|Transparent|||
+21104-90000-00|1.1.2|Surface Quality|Free of foreign material, flat and uniform texture||Visual|liner|21104-90000-00|liner##surface quality####|Free of foreign material, flat and uniform texture|||
+21104-90000-00|1.1.3|Silicone Layer|Full coverage, uniform spread||JOPMI 011 stain-test, comparison with reference sample|liner|21104-90000-00|liner##silicone layer####|Full coverage, uniform spread|||
+21104-90000-00|1.1.4|Silicone anchorage|Rub-off grade: 2||J0PM0200 thumb test|liner|21104-90000-00|liner##silicone anchorage####|Rub-off grade: 2|||
+21104-90000-00|1.2.1|Thickness|36±3|µm|DIN EN 205341)|liner|21104-90000-00|liner##thickness##µm##|36±3|33.0|39.0|36.0
+21104-90000-00|1.2.2|Weight per unit area|52±4|g/m²|DIN EN ISO 2286-21)|liner|21104-90000-00|liner##weight per unit area##g/m²##|52±4|48.0|56.0|52.0
+21104-90000-00|1.2.3|Tensile force MD|≥65|N/15mm|DIN-ISO EN 527-3 (Test speed=300mm/min, Measure length=100mm)|liner|21104-90000-00|liner##tensile force md##n/15mm##|≥65|65.0||65.0
+21104-90000-00|1.2.4|Elongation at break MD|≥55|%|Test-piece:100x100mm Test-conditions:15min; 150°C (air circulation)|liner|21104-90000-00|liner##elongation at break md##%##|≥55|55.0||55.0
+21104-90000-00|1.2.5|Shrinkage|0-3|%|Test-piece:100x100mm Test-conditions:15min; 150°C (air circulation)|liner|21104-90000-00|liner##shrinkage##%##|0-3|0.0|3.0|1.5
+21104-90000-00|1.3.1|Silicone side|0.07-0.2|g/m²|tesa:JOPMI0271,2.4), Oxford Lab-X3000 WR:Oxford Lab-X5000|liner|21104-90000-00|liner##silicone side##g/m²##|0.07-0.2|0.07|0.2|0.135
+21104-90000-00|1.4.1|Acrylic, silicone side||cN/cm|JOPMH003A7475/24h70°C2)|liner|21104-90000-00|liner##acrylic, silicone side##cn/cm##||||
+21104-90000-00|1.5.1|Silicone side|≤20|%|JOPMH003A7475/24h70°C2)|liner|21104-90000-00|liner##silicone side##%##|≤20||20.0|20.0

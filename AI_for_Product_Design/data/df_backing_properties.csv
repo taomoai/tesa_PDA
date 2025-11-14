@@ -1,0 +1,135 @@
+Backing|Property|Test Figures / Tolerances|tesa + DIN/ISO Standard|type|NART|property_key|property_value|lb|ub|target_value
+01446-90016-81|Thickness|12 ± 1 μm|JOPMC002|backing|01446-90016-81|backing##thickness##|12 ± 1 μm|11.0|13.0|12.0
+01446-90016-81|Colour|Transparent||backing|01446-90016-81|backing##colour##|Transparent|||
+01446-90016-81|Weight per unit area|16,8 ± 1,7 g/m²|JOPM0005 (100 cm² sample)|backing|01446-90016-81|backing##weight per unit area##|16,8 ± 1,7 g/m²|15.100000000000001|18.5|16.8
+01446-90016-81|Tensile strength MD|≥ 30 N/15mm = 20 N/cm [167 N/mm²]|JOPMC001 (Clamping length = 100 mm, Testing speed = 100 mm/min)|backing|01446-90016-81|backing##tensile strength md##|≥ 30 N/15mm = 20 N/cm [167 N/mm²]|30.0||30.0
+01446-90016-81|Elongation at break MD|70 – 200 %|JOPMC001 (Clamping length = 100 mm, Testing speed = 100 mm/min)|backing|01446-90016-81|backing##elongation at break md##|70 – 200 %|70.0|200.0|135.0
+01446-90016-81|Tensile strength CD|≥ 30 N/15mm = 20 N/cm [167 N/mm²]|JOPMC001 (Clamping length = 100 mm, Testing speed = 100 mm/min)|backing|01446-90016-81|backing##tensile strength cd##|≥ 30 N/15mm = 20 N/cm [167 N/mm²]|30.0||30.0
+01446-90016-81|Elongation at break CD|60 – 190 %|JOPMC001 (Clamping length = 100 mm, Testing speed = 100 mm/min)|backing|01446-90016-81|backing##elongation at break cd##|60 – 190 %|60.0|190.0|125.0
+01446-90016-81|Shrinkage MD|0 – 4 %|JOPMF004 (150°C / 15 min)|backing|01446-90016-81|backing##shrinkage md##|0 – 4 %|0.0|4.0|2.0
+01446-90016-81|Shrinkage CD|-0,5 – 1 %|JOPMF004 (150°C / 15 min)|backing|01446-90016-81|backing##shrinkage cd##|-0,5 – 1 %|||
+20655-90000-80|Thickness|12 ± 1.0 μm|JOPMC002/DIN 53370|backing|20655-90000-80|backing##thickness##|12 ± 1.0 μm|11.0|13.0|12.0
+20655-90000-80|Colour|Transparent||backing|20655-90000-80|backing##colour##|Transparent|||
+20655-90000-80|Weight per unit area|16.8 ± 1.7 g/m²|JOPMO005/ISO 536 (100 cm² sample)|backing|20655-90000-80|backing##weight per unit area##|16.8 ± 1.7 g/m²|15.100000000000001|18.5|16.8
+20655-90000-80|Tensile strength MD|≥ 23 N/cm|DIN EN ISO 1924-2 (gauge length: 100 mm, speed: 300 mm/min)|backing|20655-90000-80|backing##tensile strength md##|≥ 23 N/cm|23.0||23.0
+20655-90000-80|Elongation at break MD|≥ 80 %|DIN EN ISO 1924-2 (gauge length: 100 mm, speed: 300 mm/min)|backing|20655-90000-80|backing##elongation at break md##|≥ 80 %|80.0||80.0
+20655-90000-80|Tensile strength CD|≥ 23N/cm|DIN EN ISO 1924-2 (gauge length: 100 mm, speed: 300 mm/min)|backing|20655-90000-80|backing##tensile strength cd##|≥ 23N/cm|23.0||23.0
+20655-90000-80|Elongation at break CD|≥ 80 %|DIN EN ISO 1924-2 (gauge length: 100 mm, speed: 300 mm/min)|backing|20655-90000-80|backing##elongation at break cd##|≥ 80 %|80.0||80.0
+20655-90000-80|Shrinkage MD|≤ 2.0 %|JOPMF004/DIN 53377 (temperature: 150°C, time: 15 min)|backing|20655-90000-80|backing##shrinkage md##|≤ 2.0 %||2.0|2.0
+20655-90000-80|Shrinkage CD|≤ 0.5%|JOPMF004/DIN 53377 (temperature: 150°C, time: 15 min)|backing|20655-90000-80|backing##shrinkage cd##|≤ 0.5%||0.5|0.5
+21053-90000-00|Thickness|12 ± 1 μm|JOPMC002|backing|21053-90000-00|backing##thickness##|12 ± 1 μm|11.0|13.0|12.0
+21053-90000-00|Colour|Transparent||backing|21053-90000-00|backing##colour##|Transparent|||
+21053-90000-00|Weight per unit area|16.8 ± 1.7g/m2|ISO 536 (100 cm² sample), MFE: calculated by weight of a crosswide sample of machine roll|backing|21053-90000-00|backing##weight per unit area##|16.8 ± 1.7g/m2|15.100000000000001|18.5|16.8
+21053-90000-00|Tensile strength MD|≥ 18 N/cm|JOPMC001 (100 mm / 100 mm/min) or (100 mm / 300 mm/min)|backing|21053-90000-00|backing##tensile strength md##|≥ 18 N/cm|18.0||18.0
+21053-90000-00|Tensile strength CD|≥ 18 N/cm|JOPMC001 (100 mm / 100 mm/min) or (100 mm / 300 mm/min)|backing|21053-90000-00|backing##tensile strength cd##|≥ 18 N/cm|18.0||18.0
+21053-90000-00|Elongation at break MD|≥ 60 %|JOPMC001 (100 mm / 100 mm/min) or|backing|21053-90000-00|backing##elongation at break md##|≥ 60 %|60.0||60.0
+21053-90000-00|Elongation at break TD|≤ 60 %|JOPMC001 (100 mm / 100 mm/min) or (100 mm / 300 mm/min)|backing|21053-90000-00|backing##elongation at break td##|≤ 60 %||60.0|60.0
+21053-90000-00|Shrinkage MD|≤ 2 %|JOPMF004 (150 °C / 15 min)|backing|21053-90000-00|backing##shrinkage md##|≤ 2 %||2.0|2.0
+21053-90000-00|Shrinkage TD|≤ 0.5%|JOPMF004 (150 °C / 15 min)|backing|21053-90000-00|backing##shrinkage td##|≤ 0.5%||0.5|0.5
+20169-90000-00|Thickness|36 ± 1.8 μm|JOPMC002|backing|20169-90000-00|backing##thickness##|36 ± 1.8 μm|34.2|37.8|36.0
+20169-90000-00|Colour|White||backing|20169-90000-00|backing##colour##|White|||
+20169-90000-00|Weight per unit area|50 ± 2.5 g/m²|JOPM0005 (100 cm² sample)|backing|20169-90000-00|backing##weight per unit area##|50 ± 2.5 g/m²|47.5|52.5|50.0
+20169-90000-00|Tensile strength MD|≥ 95 N/15 mm|JOPMC001 (100 mm / 100 mm/min)|backing|20169-90000-00|backing##tensile strength md##|≥ 95 N/15 mm|95.0||95.0
+20169-90000-00|Tensile strength CD|≥ 95 N/15 mm|JOPMC001 (100 mm / 100 mm/min)|backing|20169-90000-00|backing##tensile strength cd##|≥ 95 N/15 mm|95.0||95.0
+20169-90000-00|Elongation at break MD|≥ 90 %|JOPMC001 (100 mm / 100 mm/min)|backing|20169-90000-00|backing##elongation at break md##|≥ 90 %|90.0||90.0
+20169-90000-00|Elongation at break CD|≥ 90 %|JOPMC001 (100 mm / 100 mm/min)|backing|20169-90000-00|backing##elongation at break cd##|≥ 90 %|90.0||90.0
+20169-90000-00|Shrinkage MD|≤ 3 %|JOPMF004 (150 °C / 15 min)|backing|20169-90000-00|backing##shrinkage md##|≤ 3 %||3.0|3.0
+20169-90000-00|Shrinkage CD|≤ 3 %|JOPMF004 (150 °C / 15 min)|backing|20169-90000-00|backing##shrinkage cd##|≤ 3 %||3.0|3.0
+20532-90000-00|Thickness|4.5 ± 0.5 μm|J0PMC002|backing|20532-90000-00|backing##thickness##|4.5 ± 0.5 μm|4.0|5.0|4.5
+20532-90000-00|Colour|Transparent||backing|20532-90000-00|backing##colour##|Transparent|||
+20532-90000-00|Weight per unit area|6.3 ± 0.6 g/m²|J0PM0005 (100 cm² sample)|backing|20532-90000-00|backing##weight per unit area##|6.3 ± 0.6 g/m²|5.7|6.8999999999999995|6.3
+20532-90000-00|Tensile strength MD|≥ 17 N/15 mm|J0PMC001 (100 mm / 100 mm/min)|backing|20532-90000-00|backing##tensile strength md##|≥ 17 N/15 mm|17.0||17.0
+20532-90000-00|Tensile strength at 5% elongation MD|≥ 100 N/mm²|J0PMC001 (100 mm / 100 mm/min)|backing|20532-90000-00|backing##tensile strength at 5% elongation md##|≥ 100 N/mm²|100.0||100.0
+20532-90000-00|Elongation at break MD|≥ 60%|J0PMC001 (100 mm / 100 mm/min)|backing|20532-90000-00|backing##elongation at break md##|≥ 60%|60.0||60.0
+20532-90000-00|Tensile strength CD|≥ 13 N/15 mm|J0PMC001 (100 mm / 100 mm/min)|backing|20532-90000-00|backing##tensile strength cd##|≥ 13 N/15 mm|13.0||13.0
+20532-90000-00|Elongation at break CD|≥ 60%|J0PMC001 (100 mm / 100 mm/min)|backing|20532-90000-00|backing##elongation at break cd##|≥ 60%|60.0||60.0
+20532-90000-00|Shrinkage MD|≤ 3.5%|J0PMF004 (150 °C / 15 min)|backing|20532-90000-00|backing##shrinkage md##|≤ 3.5%||3.5|3.5
+20532-90000-00|Shrinkage CD|≤ 1%|J0PMF004 (150 °C / 15 min)|backing|20532-90000-00|backing##shrinkage cd##|≤ 1%||1.0|1.0
+20654-90001-80|Thickness|4.5 ± 0.5 μm|JOPMC002/DIN 53370|backing|20654-90001-80|backing##thickness##|4.5 ± 0.5 μm|4.0|5.0|4.5
+20654-90001-80|Colour|White||backing|20654-90001-80|backing##colour##|White|||
+20654-90001-80|Weight per unit area|6.3 ± 0.6 g/m²|JOPM0105/ISO 536 (100 cm² sample)|backing|20654-90001-80|backing##weight per unit area##|6.3 ± 0.6 g/m²|5.7|6.8999999999999995|6.3
+20654-90001-80|Tensile strength MD|≥ 8.7 N/cm|JOPMC001 100 mm/300mm/min|backing|20654-90001-80|backing##tensile strength md##|≥ 8.7 N/cm|8.7||8.7
+20654-90001-80|Elongation at break MD|≥ 60%|JOPMC001 100 mm/300mm/min|backing|20654-90001-80|backing##elongation at break md##|≥ 60%|60.0||60.0
+20654-90001-80|Tensile strength CD|≥ 8.0 N/cm|JOPMC001 100 mm/300mm/min|backing|20654-90001-80|backing##tensile strength cd##|≥ 8.0 N/cm|8.0||8.0
+20654-90001-80|Elongation at break CD|≥ 60%|JOPMC001 100 mm/300mm/min|backing|20654-90001-80|backing##elongation at break cd##|≥ 60%|60.0||60.0
+20654-90001-80|Shrinkage MD|≤ 2.2%|JOPMF004/DIN 53377 (temperature: 150°C, time: 15 min)|backing|20654-90001-80|backing##shrinkage md##|≤ 2.2%||2.2|2.2
+20654-90001-80|Shrinkage CD|≤ 1.2%|JOPMF004/DIN 53377 (temperature: 150°C, time: 15 min)|backing|20654-90001-80|backing##shrinkage cd##|≤ 1.2%||1.2|1.2
+20057-90002-00|Thickness|12 ± 0.6 μm|J0PMC002|backing|20057-90002-00|backing##thickness##|12 ± 0.6 μm|11.4|12.6|12.0
+20057-90002-00|Colour|Black||backing|20057-90002-00|backing##colour##|Black|||
+20057-90002-00|Weight per unit area|16.8 ± 0.8 g/m²|J0PM0005 (100 cm² sample)|backing|20057-90002-00|backing##weight per unit area##|16.8 ± 0.8 g/m²|16.0|17.6|16.8
+20057-90002-00|Tensile strength MD|≥ 36 N/15 mm|J0PMC001 (100 mm / 100 mm/min)|backing|20057-90002-00|backing##tensile strength md##|≥ 36 N/15 mm|36.0||36.0
+20057-90002-00|Tensile strength CD|≥ 36 N/15 mm|J0PMC001 (100 mm / 100 mm/min)|backing|20057-90002-00|backing##tensile strength cd##|≥ 36 N/15 mm|36.0||36.0
+20057-90002-00|Elongation at break MD|≥ 80 %|J0PMC001 (100 mm / 100 mm/min)|backing|20057-90002-00|backing##elongation at break md##|≥ 80 %|80.0||80.0
+20057-90002-00|Elongation at break CD|≥ 70 %|J0PMC001 (100 mm / 100 mm/min)|backing|20057-90002-00|backing##elongation at break cd##|≥ 70 %|70.0||70.0
+20057-90002-00|Shrinkage MD|≤ 2 %|J0PMF004 (150 °C / 15 min)|backing|20057-90002-00|backing##shrinkage md##|≤ 2 %||2.0|2.0
+20057-90002-00|Shrinkage CD|≤ 2 %|J0PMF004 (150 °C / 15 min)|backing|20057-90002-00|backing##shrinkage cd##|≤ 2 %||2.0|2.0
+20057-90002-00|Transparency VLT (550 nm)|≤ 10%|According to confirmation|backing|20057-90002-00|backing##transparency vlt (550 nm)##|≤ 10%||10.0|10.0
+20057-90002-00|Colour difference value ΔE CMC|≤ 2.5|EN ISO J 105-J03|backing|20057-90002-00|backing##colour difference value δe cmc##|≤ 2.5||2.5|2.5
+21071-90001-00|Thickness|12 ±1.5 µm|J0PMC002|backing|21071-90001-00|backing##thickness##|12 ±1.5 µm|10.5|13.5|12.0
+21071-90001-00|Colour|White||backing|21071-90001-00|backing##colour##|White|||
+21071-90001-00|Weight per unit area|18.3 ±1.8 g/m²|J0PM0105/ISO 536|backing|21071-90001-00|backing##weight per unit area##|18.3 ±1.8 g/m²|16.5|20.1|18.3
+21071-90001-00|Tensile strength MD|≥16 N/cm|J0PMC001 100 mm/300mm/min|backing|21071-90001-00|backing##tensile strength md##|≥16 N/cm|16.0||16.0
+21071-90001-00|Tensile strength CD|≥16 N/cm|J0PMC001 100 mm/300mm/min|backing|21071-90001-00|backing##tensile strength cd##|≥16 N/cm|16.0||16.0
+21071-90001-00|Elongation at break MD|≥80%|J0PMC001 100 mm/300mm/min|backing|21071-90001-00|backing##elongation at break md##|≥80%|80.0||80.0
+21071-90001-00|Elongation at break CD|≥50%|J0PMC001 100 mm/300mm/min|backing|21071-90001-00|backing##elongation at break cd##|≥50%|50.0||50.0
+21071-90001-00|Shrinkage MD|≤2.0%|J0PMF004/DIN 53377 (temperature: 150°C, time: 15 min)|backing|21071-90001-00|backing##shrinkage md##|≤2.0%||2.0|2.0
+21071-90001-00|Shrinkage CD|≤1.0%|J0PMF004/DIN 53377 (temperature: 150°C, time: 15 min)|backing|21071-90001-00|backing##shrinkage cd##|≤1.0%||1.0|1.0
+21071-90001-00|Transparency|33.0 ±6|ASTMD-1003|backing|21071-90001-00|backing##transparency##|33.0 ±6|27.0|39.0|33.0
+21071-90001-00|Antimony content|≤300 ppm|USEPA 3052:1996 (refer to SGS report)|backing|21071-90001-00|backing##antimony content##|≤300 ppm||300.0|300.0
+20466-90001-00|Thickness|12 ±0.6 µm|J0PMC002|backing|20466-90001-00|backing##thickness##|12 ±0.6 µm|11.4|12.6|12.0
+20466-90001-00|Colour|Black||backing|20466-90001-00|backing##colour##|Black|||
+20466-90001-00|Weight per unit area|16.8 ±0.8 g/m²|J0PM0005 (100 cm² sample)|backing|20466-90001-00|backing##weight per unit area##|16.8 ±0.8 g/m²|16.0|17.6|16.8
+20466-90001-00|Tensile strength MD|≥34 N/15 mm|J0PMC001 (100 mm / 100 mm/min)|backing|20466-90001-00|backing##tensile strength md##|≥34 N/15 mm|34.0||34.0
+20466-90001-00|Tensile strength CD|≥34 N/15 mm|J0PMC001 (100 mm / 100 mm/min)|backing|20466-90001-00|backing##tensile strength cd##|≥34 N/15 mm|34.0||34.0
+20466-90001-00|Elongation at break MD|≥80 %|J0PMC001 (100 mm / 100 mm/min)|backing|20466-90001-00|backing##elongation at break md##|≥80 %|80.0||80.0
+20466-90001-00|Elongation at break CD|≥70 %|J0PMC001 (100 mm / 100 mm/min)|backing|20466-90001-00|backing##elongation at break cd##|≥70 %|70.0||70.0
+20466-90001-00|Shrinkage MD|≤2 %|J0PMF004 (150°C / 15 min)|backing|20466-90001-00|backing##shrinkage md##|≤2 %||2.0|2.0
+20466-90001-00|Shrinkage CD|≤2 %|J0PMF004 (150°C / 15 min)|backing|20466-90001-00|backing##shrinkage cd##|≤2 %||2.0|2.0
+20466-90001-00|Transparency VLT (550 nm)|≤5 %|According to confirmation|backing|20466-90001-00|backing##transparency vlt (550 nm)##|≤5 %||5.0|5.0
+20466-90001-00|Colour difference value ΔE CMC Colour indices (typical values)|≤1.5 L*=16.09 a*=3.31 b*=9.29|EN ISO J 105-J03 According to confirmation|backing|20466-90001-00|backing##colour difference value δe cmc colour indices (typical values)##|≤1.5 L*=16.09 a*=3.31 b*=9.29||1.5|1.5
+20466-90001-00|Content* black masterbatch (PBT black 1951)|8 ±1 %|According to confirmation|backing|20466-90001-00|backing##content* black masterbatch (pbt black 1951)##|8 ±1 %|7.0|9.0|8.0
+20466-90001-00|Heavy metal content: Cd, Mn, Hg, Cr(VI), Pb|≤ 5 ppm in total|According to confirmation|backing|20466-90001-00|backing##heavy metal content: cd, mn, hg, cr(vi), pb##|≤ 5 ppm in total||5.0|5.0
+20466-90001-00|Halogen content|≤ 30 ppm|According to confirmation|backing|20466-90001-00|backing##halogen content##|≤ 30 ppm||30.0|30.0
+20491-90000-80|Thickness|2 ±1.0 µm|J0PMC002/DIN 53370|backing|20491-90000-80|backing##thickness##|2 ±1.0 µm|1.0|3.0|2.0
+20491-90000-80|Colour|Transparent||backing|20491-90000-80|backing##colour##|Transparent|||
+20491-90000-80|Weight per unit area|2.7 ±1.0 g/m²|J0PM0005/ISO 536 (100 cm² sample)|backing|20491-90000-80|backing##weight per unit area##|2.7 ±1.0 g/m²|1.7000000000000002|3.7|2.7
+20491-90000-80|Tensile strength MD|≥4 N/cm|DIN EN ISO 1924-2 (gauge length: 100 mm, speed: 300 mm/min)|backing|20491-90000-80|backing##tensile strength md##|≥4 N/cm|4.0||4.0
+20491-90000-80|Elongation at break MD|≥40%|DIN EN ISO 1924-2 (gauge length: 100 mm, speed: 300 mm/min)|backing|20491-90000-80|backing##elongation at break md##|≥40%|40.0||40.0
+20491-90000-80|Tensile strength CD|≥4 N/cm|DIN EN ISO 1924-2 (gauge length: 100 mm, speed: 300 mm/min)|backing|20491-90000-80|backing##tensile strength cd##|≥4 N/cm|4.0||4.0
+20491-90000-80|Elongation at break CD|≥40%|DIN EN ISO 1924-2 (gauge length: 100 mm, speed: 300 mm/min)|backing|20491-90000-80|backing##elongation at break cd##|≥40%|40.0||40.0
+20491-90000-80|Shrinkage MD|0-3.0 %|J0PMF004/DIN 53377 (temperature: 150°C, time: 15 min)|backing|20491-90000-80|backing##shrinkage md##|0-3.0 %|0.0|3.0|1.5
+20491-90000-80|Shrinkage CD|0-2,0%|J0PMF004/DIN53377 (temperature: 150°C, time: 15min)|backing|20491-90000-80|backing##shrinkage cd##|0-2,0%|0.0|2.0|1.0
+20491-90000-80|Halogen content (F, Cl, Br, I)|Not detected|EN14582:2007 (refer to SGS report)|backing|20491-90000-80|backing##halogen content (f, cl, br, i)##|Not detected|||
+20491-90000-80|Heavy metal content (Cd, Pb, Hg, Cr(VI))|Not detected|IEC62321-5:2013 (Cd, Pb) IEC62321-4:2013 (Hg) IEC62321-5:2008 (Cr(VI)) refer to SGS report|backing|20491-90000-80|backing##heavy metal content (cd, pb, hg, cr(vi))##|Not detected|||
+20491-90000-80|Antimony content|≤400ppm|USEPA3052:1996 (refer to SGS report)|backing|20491-90000-80|backing##antimony content##|≤400ppm||400.0|400.0
+20709-90001-00|Thickness|150 ±10 µm|J0PMC002|backing|20709-90001-00|backing##thickness##|150 ±10 µm|140.0|160.0|150.0
+20709-90001-00|Colour|Transparent||backing|20709-90001-00|backing##colour##|Transparent|||
+20709-90001-00|Tensile strength MD|≥40 N/15mm|J0PMC001 100 mm/300mm/min|backing|20709-90001-00|backing##tensile strength md##|≥40 N/15mm|40.0||40.0
+20709-90001-00|Tensile strength CD|≥40 N/15mm|J0PMC001 100 mm/300mm/min|backing|20709-90001-00|backing##tensile strength cd##|≥40 N/15mm|40.0||40.0
+20709-90001-00|Elongation at break MD|≥60 %|J0PMC001 100 mm/300mm/min|backing|20709-90001-00|backing##elongation at break md##|≥60 %|60.0||60.0
+20709-90001-00|Elongation at break CD 伸长率CD方向|≥80 %|J0PMC001 100 mm/300mm/min|backing|20709-90001-00|backing##elongation at break cd 伸长率cd方向##|≥80 %|80.0||80.0
+20709-90001-00|Transmittance|≥80 %|J0PMF004/DIN 53377 (temperature: 150°C, time: 15 min)|backing|20709-90001-00|backing##transmittance##|≥80 %|80.0||80.0
+20709-90001-00|Heavy content: Cd, Mn, Hg, Cr(VI), Pb 重金属含量|Not detected (<MDL)|IEC 62321-5:2013 ED1.0 IEC 62321-5:2013 ED.1.0 IEC 62321-4:2013 ED.1.0 IEC 62321:2008Ed.1 Annex C (refer to CTI report)|backing|20709-90001-00|backing##heavy content: cd, mn, hg, cr(vi), pb 重金属含量##|Not detected (<MDL)|||
+20599-90001-00|Thickness|12 ±0.6 µm||backing|20599-90001-00|backing##thickness##|12 ±0.6 µm|11.4|12.6|12.0
+20599-90001-00|Colour|Black||backing|20599-90001-00|backing##colour##|Black|||
+20599-90001-00|Weight per unit area|16.8 ±1.7 g/m²||backing|20599-90001-00|backing##weight per unit area##|16.8 ±1.7 g/m²|15.100000000000001|18.5|16.8
+20599-90001-00|Tensile strength MD|≥28N/15 mm||backing|20599-90001-00|backing##tensile strength md##|≥28N/15 mm|28.0||28.0
+20599-90001-00|Tensile strength CD|≥34 N/15 mm||backing|20599-90001-00|backing##tensile strength cd##|≥34 N/15 mm|34.0||34.0
+20599-90001-00|Elongation at break MD|≥75 %||backing|20599-90001-00|backing##elongation at break md##|≥75 %|75.0||75.0
+20599-90001-00|Elongation at break CD|≥45 %||backing|20599-90001-00|backing##elongation at break cd##|≥45 %|45.0||45.0
+20599-90001-00|Shrinkage MD|≤2.1 %||backing|20599-90001-00|backing##shrinkage md##|≤2.1 %||2.1|2.1
+20599-90001-00|Shrinkage CD|≤0.8 %||backing|20599-90001-00|backing##shrinkage cd##|≤0.8 %||0.8|0.8
+20599-90001-00|Heavy metal content: Cd, Mn, Hg, Cr(VI), Pb|≤ 5 ppm in total||backing|20599-90001-00|backing##heavy metal content: cd, mn, hg, cr(vi), pb##|≤ 5 ppm in total||5.0|5.0
+20599-90001-00|Halogen content|≤ 30 ppm||backing|20599-90001-00|backing##halogen content##|≤ 30 ppm||30.0|30.0
+20153-90000-00|Thickness|12 ±1.0 µm||backing|20153-90000-00|backing##thickness##|12 ±1.0 µm|11.0|13.0|12.0
+20153-90000-00|Colour|Transparent||backing|20153-90000-00|backing##colour##|Transparent|||
+20153-90000-00|Weight per unit area|16.8 ±1.7 g/m²||backing|20153-90000-00|backing##weight per unit area##|16.8 ±1.7 g/m²|15.100000000000001|18.5|16.8
+20153-90000-00|Tensile strength MD|≥18 N/cm||backing|20153-90000-00|backing##tensile strength md##|≥18 N/cm|18.0||18.0
+20153-90000-00|Tensile strength CD|≥18 N/cm||backing|20153-90000-00|backing##tensile strength cd##|≥18 N/cm|18.0||18.0
+20153-90000-00|Elongation at break MD|≥60%||backing|20153-90000-00|backing##elongation at break md##|≥60%|60.0||60.0
+20153-90000-00|Elongation at break CD|≥60%||backing|20153-90000-00|backing##elongation at break cd##|≥60%|60.0||60.0
+20153-90000-00|Shrinkage MD|≤2.0%||backing|20153-90000-00|backing##shrinkage md##|≤2.0%||2.0|2.0
+20153-90000-00|Shrinkage CD|≤0.5%||backing|20153-90000-00|backing##shrinkage cd##|≤0.5%||0.5|0.5
+20153-90000-00|Halogen content (F, Cl, Br, I)|Not detected||backing|20153-90000-00|backing##halogen content (f, cl, br, i)##|Not detected|||
+20153-90000-00|Heavy metal content (Cd, Pb, Hg, Cr(VI))|Not detected||backing|20153-90000-00|backing##heavy metal content (cd, pb, hg, cr(vi))##|Not detected|||
+20153-90000-00|Antimony content|≤300ppm||backing|20153-90000-00|backing##antimony content##|≤300ppm||300.0|300.0

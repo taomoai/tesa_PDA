@@ -1,0 +1,373 @@
+type|NART|property_key|property_value|lb|ub
+adhesive|14174-80000-00|adhesive##peel adhesion (n/cm)##sus##|7.1|7.1|7.1
+adhesive|14174-80000-00|adhesive##peel adhesion (n/cm)##pc##|8.3|8.3|8.3
+adhesive|14174-80000-00|adhesive##holding power (mins)##rt##|>10000|10000.0|
+adhesive|14174-80000-00|adhesive##edge taping##60/90##|>7d|7.0|
+adhesive|14174-80000-00|adhesive##static peel (mm)##50g,70℃ 24hr##|1|1.0|1.0
+adhesive|14174-80000-00|adhesive##name plate (mm)##30°,60/90 24hr##|3|3.0|3.0
+adhesive|14174-80000-00|adhesive##tg(℃)##dsc##|-31|-31.0|-31.0
+adhesive|14174-80000-00|adhesive##tg(℃)##dma##|-2|-2.0|-2.0
+adhesive|10164-70000-00|adhesive##peel adhesion (n/cm)##sus##|6|6.0|6.0
+adhesive|10164-70000-00|adhesive##peel adhesion (n/cm)##pc##|6|6.0|6.0
+adhesive|10164-70000-00|adhesive##holding power (mins)##rt##|>10000|10000.0|
+adhesive|10164-70000-00|adhesive##edge taping##60/90##|2-5d|2.0|5.0
+adhesive|10164-70000-00|adhesive##static peel (mm)##50g,70℃ 24hr##|10|10.0|10.0
+adhesive|10164-70000-00|adhesive##name plate (mm)##30°,60/90 24hr##|2|2.0|2.0
+adhesive|10164-70000-00|adhesive##tg(℃)##dsc##|-24|-24.0|-24.0
+adhesive|10164-70000-00|adhesive##tg(℃)##dma##|-9|-9.0|-9.0
+adhesive|13799-70000-80|adhesive##peel adhesion (n/cm)##sus##|1|1.0|1.0
+adhesive|13799-70000-80|adhesive##peel adhesion (n/cm)##rt astm##|0.12|0.12|0.12
+adhesive|13799-70000-80|adhesive##peel adhesion (n/cm)##pe##|0.5|0.5|0.5
+adhesive|13799-70000-80|adhesive##holding power (mins)##rt##|>10000|10000.0|
+adhesive|13799-70000-80|adhesive##micro shear##distance µm##|10|10.0|10.0
+adhesive|13799-70000-80|adhesive##heat resistance##200℃ 8hrs##|0.52|0.52|0.52
+adhesive|13799-70000-80|adhesive##acid free####|yes||
+adhesive|13740-70000-90|adhesive##peel adhesion (n/cm)##sus##|6.4|6.4|6.4
+adhesive|13740-70000-90|adhesive##peel adhesion (n/cm)##pc##|7.8|7.8|7.8
+adhesive|13740-70000-90|adhesive##peel adhesion (n/cm)##pe##|4.2|4.2|4.2
+adhesive|13740-70000-90|adhesive##holding power (mins)##rt##|10000|10000.0|10000.0
+adhesive|13740-70000-90|adhesive##holding power (mins)##70℃##|1364|1364.0|1364.0
+adhesive|13740-70000-90|adhesive##micro shear##distance µm##|70|70.0|70.0
+adhesive|13740-70000-90|adhesive##rb tack##mm##|213|213.0|213.0
+adhesive|13740-70000-90|adhesive##tg(℃)##dsc##|-30|-30.0|-30.0
+adhesive|10206-70000-00|adhesive##peel adhesion (n/cm)##astm##|7.5|7.5|7.5
+adhesive|10206-70000-00|adhesive##peel adhesion (n/cm)##pi##|9.5|9.5|9.5
+adhesive|10206-70000-00|adhesive##holding power (mins)##rt##|>10000|10000.0|
+adhesive|10206-70000-00|adhesive##tg(℃)##dsc##|-13.7|-13.7|-13.7
+adhesive|10206-70000-00|adhesive##tg(℃)##dma##|0.83|0.83|0.83
+adhesive|13840-50000-81|adhesive##peel adhesion (n/cm)##sus##|7.7|7.7|7.7
+adhesive|13840-50000-81|adhesive##peel adhesion (n/cm)##pc##|7.4|7.4|7.4
+adhesive|13840-50000-81|adhesive##peel adhesion (n/cm)##pe##|2.9|2.9|2.9
+adhesive|13840-50000-81|adhesive##holding power (mins)##rt##|10000|10000.0|10000.0
+adhesive|13840-50000-81|adhesive##holding power (mins)##70℃##|776|776.0|776.0
+adhesive|13840-50000-81|adhesive##micro shear##distance µm##|110|110.0|110.0
+adhesive|13840-50000-81|adhesive##rb tack##mm##|220|220.0|220.0
+adhesive|13840-50000-81|adhesive##tg(℃)##dsc##|-23|-23.0|-23.0
+adhesive|13840-50000-81|adhesive##tg(℃)##dma##|-3|-3.0|-3.0
+adhesive|10151-80000-00|adhesive##peel adhesion (n/cm)##sus##|12.3|12.3|12.3
+adhesive|10151-80000-00|adhesive##peel adhesion (n/cm)##pe##|6.5|6.5|6.5
+adhesive|10151-80000-00|adhesive##holding power (mins)##rt##|10000|10000.0|10000.0
+adhesive|10151-80000-00|adhesive##holding power (mins)##70℃##|527|527.0|527.0
+adhesive|10151-80000-00|adhesive##micro shear##distance µm##|<100||100.0
+adhesive|10151-80000-00|adhesive##rb tack##mm##|>300|300.0|
+adhesive|10151-80000-00|adhesive##tg(℃)##dsc##|-50~-60|-60.0|-50.0
+adhesive|10151-80000-00|adhesive##tg(℃)##dma##|7.2|7.2|7.2
+adhesive|14064-80000-80|adhesive##peel adhesion (n/cm)##sus##|5|5.0|5.0
+adhesive|14064-80000-80|adhesive##peel adhesion (n/cm)##pc##|3|3.0|3.0
+adhesive|14064-80000-80|adhesive##holding power (mins)##rt##|>10000|10000.0|
+adhesive|14064-80000-80|adhesive##edge taping##60/90##|>7d|7.0|
+adhesive|14064-80000-80|adhesive##static peel (mm)##50g,70℃ 24hr##|0|0.0|0.0
+adhesive|14064-80000-80|adhesive##name plate (mm)##30°,60/90 24hr##|0|0.0|0.0
+adhesive|14064-80000-80|adhesive##tg(℃)##dsc##|-20|-20.0|-20.0
+adhesive|14064-80000-80|adhesive##tg(℃)##dma##|-4|-4.0|-4.0
+adhesive|13783-40000-80|adhesive##peel adhesion (n/cm)##sus##|9.7|9.7|9.7
+adhesive|13783-40000-80|adhesive##peel adhesion (n/cm)##pc##|9.1|9.1|9.1
+adhesive|13783-40000-80|adhesive##peel adhesion (n/cm)##pe##|3.4|3.4|3.4
+adhesive|13783-40000-80|adhesive##holding power (mins)##rt##|>10000|10000.0|
+adhesive|13783-40000-80|adhesive##holding power (mins)##70℃##|980|980.0|980.0
+adhesive|13783-40000-80|adhesive##micro shear##distance µm##|129|129.0|129.0
+adhesive|13783-40000-80|adhesive##rb tack##mm##|>600|600.0|
+adhesive|13783-40000-80|adhesive##tg(℃)##dsc##|-18|-18.0|-18.0
+adhesive|13783-40000-80|adhesive##tg(℃)##dma##|-2.6|-2.6|-2.6
+adhesive|10358-80000-00|adhesive##peel adhesion (n/cm)##sus##|8.7|8.7|8.7
+adhesive|10358-80000-01|adhesive##peel adhesion (n/cm)##pc##|||
+adhesive|10358-80000-02|adhesive##peel adhesion (n/cm)##pe##|||
+adhesive|10358-80000-03|adhesive##holding power (mins)##rt##|10000|10000.0|10000.0
+adhesive|10358-80000-04|adhesive##holding power (mins)##70℃##|1345|1345.0|1345.0
+adhesive|10358-80000-05|adhesive##micro shear##distance µm##|134|134.0|134.0
+adhesive|10358-80000-06|adhesive##rb tack##mm##|||
+adhesive|10358-80000-07|adhesive##tg(℃)##dsc##|-23|-23.0|-23.0
+adhesive|10358-80000-08|adhesive##tg(℃)##dma##|1.9|1.9|1.9
+adhesive|13044-70000-80|adhesive##peel adhesion (n/cm)##sus##|0.02|0.02|0.02
+adhesive|13044-70000-80|adhesive##heat resistance##200℃ 8hrs##|0.32|0.32|0.32
+adhesive|13044-70000-80|adhesive##acid free####|yes||
+adhesive|13799-70000-81|adhesive##peel adhesion (n/cm)##sus##|0.12|0.12|0.12
+adhesive|13799-70000-81|adhesive##heat resistance##200℃ 8hrs##|0.52|0.52|0.52
+adhesive|13799-70000-81|adhesive##acid free####|yes||
+adhesive|10089-80000-00|adhesive##peel adhesion (n/cm)##sus##|6|6.0|6.0
+adhesive|10089-80000-00|adhesive##peel adhesion (n/cm)##pc##|6.1|6.1|6.1
+adhesive|10089-80000-00|adhesive##peel adhesion (n/cm)##pe##|2.6|2.6|2.6
+adhesive|10089-80000-00|adhesive##holding power (mins)##rt##|>10000|10000.0|
+adhesive|10089-80000-00|adhesive##holding power (mins)##70℃##|1260|1260.0|1260.0
+adhesive|10089-80000-00|adhesive##micro shear##distance µm##|102|102.0|102.0
+adhesive|10089-80000-00|adhesive##micro shear##elasticity%##|76|76.0|76.0
+adhesive|10089-80000-00|adhesive##rb tack##mm##|126|126.0|126.0
+adhesive|10089-80000-00|adhesive##tg(℃)##dsc##|-28|-28.0|-28.0
+adhesive|10089-80000-00|adhesive##tg(℃)##dma##|-8.1|-8.1|-8.1
+adhesive|10011-80000-00|adhesive##peel adhesion (n/cm)##sus##|7.5|7.5|7.5
+adhesive|10011-80000-00|adhesive##peel adhesion (n/cm)##pc##|7.4|7.4|7.4
+adhesive|10011-80000-00|adhesive##peel adhesion (n/cm)##pe##|2.8|2.8|2.8
+adhesive|10011-80000-00|adhesive##holding power (mins)##rt##|>8000|8000.0|
+adhesive|10011-80000-00|adhesive##holding power (mins)##70℃##|1732|1732.0|1732.0
+adhesive|10011-80000-00|adhesive##micro shear##distance µm##|128|128.0|128.0
+adhesive|10011-80000-00|adhesive##micro shear##elasticity%##|72|72.0|72.0
+adhesive|10011-80000-00|adhesive##rb tack##mm##|>600|600.0|
+adhesive|10011-80000-00|adhesive##tg(℃)##dsc##|-26|-26.0|-26.0
+adhesive|10011-80000-00|adhesive##tg(℃)##dma##|-0.2|-0.2|-0.2
+liner|22857-90000-00|liner##colour####|White, printed with tesa Logo FINAT TLMI-No. 16||
+liner|22857-90000-00|liner##surface free of foreign material, uniform texture####|Surface free of foreign material, uniform texture||
+liner|22857-90000-00|liner##full coverage, uniform spread####|Full coverage, uniform spread||
+liner|22857-90000-00|liner##rub-off grade####|1 – 1.5|1.0|1.5
+liner|22857-90000-00|liner##thickness##µm##|69 ± 6|63.0|75.0
+liner|22857-90000-00|liner##basis weight##g/m²##|80 ± 5|75.0|85.0
+liner|22857-90000-00|liner##tensile strength##n/15mm##|≥ 90|90.0|
+liner|22857-90000-00|liner##moisture##%##|≥ 42|42.0|
+liner|22857-90000-00|liner##silicone coating weight (supplier method)##g/m²##|1.35 ± 0.1|1.25|1.4500000000000002
+liner|22857-90000-00|liner##silicone coating weight (tesa method)##g/m²##|1.35 ± 0.1|1.25|1.4500000000000002
+liner|22857-90000-00|liner##release force (natural rubber, easy side*) jopmh003 k 50110/24h 40°c (3)##cn/cm##|2 - 15|2.0|15.0
+liner|22857-90000-00|liner##release force (natural rubber, easy side*) mondi jülich: pa 4012##cn/cm##|2 - 20|2.0|20.0
+liner|22857-90000-00|liner##release force (natural rubber, easy side*) jopmh003 a 7475/24h 70°c (3)##cn/cm##|3 - 15|3.0|15.0
+liner|22857-90000-00|liner##release force (natural rubber, easy side*) mondi jülich: pa 4022##cn/cm##|4 - 15|4.0|15.0
+liner|22857-90000-00|liner##loss of peel adhesion (easy side*)##%##|≤ 20||20.0
+liner|22857-90000-00|liner##loss of peel adhesion (tight side*)##%##|≤ 20||20.0
+liner|22857-90000-00|liner##anchorage of print ink on dense paper side####|test tape has to be removed after contact to the printed side. No or slight residues of printing ink are acceptable||
+liner|22857-90000-00|liner##wipe off test (printed side [water, acetone, iso-prop, toluo])####|Wiping with tinctures cloth on the siliconizes surface does not lead to smear of the ink||
+liner|23039-90000-08|liner##colour####|White base paper, red tesa logo||
+liner|23039-90000-08|liner##surface quality####|Free of foreign material, uniform texture||
+liner|23039-90000-08|liner##silicone layer####|Full coverage, uniform spread||
+liner|23039-90000-08|liner##silicone anchorage####|Rub-off grade: 1-1.5||
+liner|23039-90000-08|liner##thickness##µm##|67±6|61.0|73.0
+liner|23039-90000-08|liner##weight per unit area##g/m²##|80±5|75.0|85.0
+liner|23039-90000-08|liner##tensile force md##n/15mm##|>75|75.0|
+liner|23039-90000-08|liner##tensile force cd##%##|>42|42.0|
+liner|23039-90000-08|liner##moisture* (preliminary)####|2.5-6|2.5|6.0
+liner|23039-90000-08|liner##easy side##g/m²##|1.6±0.2|1.4000000000000001|1.8
+liner|23039-90000-08|liner##tight side##g/m²##|1.6±0.2|1.4000000000000001|1.8
+liner|23039-90000-08|liner##acrylic, easy side##cn/cm##|2 - 15|2.0|15.0
+liner|23039-90000-08|liner##acrylic, tight side##cn/cm##|3 - 15|3.0|15.0
+liner|23039-90000-08|liner##easy side##%##|≤20||20.0
+liner|23039-90000-08|liner##tight side##%##|≤20||20.0
+liner|23039-90000-08|liner##anchorage on printed side####|After removal of test tape from the printed side, ink particles are not accepted, slight or no ink layer transfer is accepted, no obvious colour change on test part||
+liner|23039-90000-08|liner##wipe off test (printed side) [water, acetone, ethanol, iso-prop, ethyl acetate]####|Wipe with solvent drenched cloth on the silicone surface does not lead to smear of the ink||
+liner|21061-90000-00|liner##colour####|transparent||
+liner|21061-90000-00|liner##surface quality####|Lubricant and dust-free surface No brush and claw marks||
+liner|21061-90000-00|liner##silicone layer####|Has to be complete, no free parts of silicone or strips, uniform structure||
+liner|21061-90000-00|liner##silicone anchorage####|No rub off||
+liner|21061-90000-00|liner##thickness##µm##|50±4|46.0|54.0
+liner|21061-90000-00|liner##weight per unit area##g/m²##|72±4|68.0|76.0
+liner|21061-90000-00|liner##tensile force md##n/15mm##|≥105|105.0|
+liner|21061-90000-00|liner##elongation at break md##%##|≥55|55.0|
+liner|21061-90000-00|liner##shrinkage##%##|0-3|0.0|3.0
+liner|21061-90000-00|liner##outside##g/m²##|0.07-0.2|0.07|0.2
+liner|21061-90000-00|liner##acrylic, outside##cn/cm##|3~14|3.0|14.0
+liner|21061-90000-00|liner##outside##%##|≤15||15.0
+liner|20291-90000-80|liner##colour####|transparent||
+liner|20291-90000-80|liner##surface quality####|Lubricant and dust-free surface No brush and claw marks||
+liner|20291-90000-80|liner##silicone layer####|Has to be complete, no free parts of silicone or strips, uniform structure||
+liner|20291-90000-80|liner##silicone anchorage####|No rub off||
+liner|20291-90000-80|liner##thickness##µm##|36±3|33.0|39.0
+liner|20291-90000-80|liner##weight per unit area##g/m²##|52±4|48.0|56.0
+liner|20291-90000-80|liner##tensile force md##n/15mm##|≥65|65.0|
+liner|20291-90000-80|liner##elongation at break md##%##|≥55|55.0|
+liner|20291-90000-80|liner##shrinkage##%##|0-3|0.0|3.0
+liner|20291-90000-80|liner##outside##g/m²##|0.09-0.30|0.09|0.3
+liner|20291-90000-80|liner##acrylic, outside##cn/cm##|3 - 10|3.0|10.0
+liner|20291-90000-80|liner##outside##%##|≤20||20.0
+liner|23034-90000-01|liner##colour####|Natural||
+liner|23034-90000-01|liner##surface quality####|Silicone coating free of foreign material, uniform texture||
+liner|23034-90000-01|liner##silicone layer####|Full coverage, uniform spread||
+liner|23034-90000-01|liner##silicone anchorage####|Rub-off grade: 2||
+liner|23034-90000-01|liner##silicone side##g/m²##|0.08-0.3|0.08|0.3
+liner|23034-90000-01|liner##acrylic, silicone side##cn/cm##|7-25|7.0|25.0
+liner|23034-90000-01|liner##silicone side##%##|≤20||20.0
+liner|23033-90000-01|liner##colour####|Natural||
+liner|23033-90000-01|liner##surface quality####|Silicone coating free of foreign material, uniform texture||
+liner|23033-90000-01|liner##silicone layer####|Full coverage, uniform spread||
+liner|23033-90000-01|liner##silicone anchorage####|Rub-off grade: 2||
+liner|23033-90000-01|liner##silicone side##g/m²##|0.08-0.3|0.08|0.3
+liner|23033-90000-01|liner##acrylic, silicone side##cn/cm##|3-8|3.0|8.0
+liner|23033-90000-01|liner##silicone side##%##|≤20||20.0
+liner|23019-90000-00|liner##colour####|Green blue||
+liner|23019-90000-00|liner##surface quality####|Lubricant and dust-free surface; No brush and claw marks||
+liner|23019-90000-00|liner##silicone layer####|Complete, no free parts of silicone or strips, uniform structure||
+liner|23019-90000-00|liner##silicone anchorage####|No rub off||
+liner|23019-90000-00|liner##thickness##µm##|50 ± 4|46.0|54.0
+liner|23019-90000-00|liner##weight per unit area##g/m²##|72 ± 4|68.0|76.0
+liner|23019-90000-00|liner##tensile force md##n/15mm##|≥ 105|105.0|
+liner|23019-90000-00|liner##elongation at break md##%##|≥ 55|55.0|
+liner|23038-90000-08|liner##colour####|Havana base paper, Blue tesa logo||
+liner|23038-90000-08|liner##surface quality####|Free of foreign material, uniform texture||
+liner|23038-90000-08|liner##silicone layer####|Full coverage, uniform spread||
+liner|23038-90000-08|liner##silicone anchorage####|Rub-off grade: 1-1.5||
+liner|23038-90000-08|liner##thickness##µm##|67±6|61.0|73.0
+liner|23038-90000-08|liner##weight per unit area##g/m²##|80±5|75.0|85.0
+liner|23038-90000-08|liner##tensile force md##n/15mm##|>75|75.0|
+liner|23038-90000-08|liner##tensile force cd##n/15mm##|>42|42.0|
+liner|23038-90000-08|liner##moisture##%##|2.5-6|2.5|6.0
+liner|23038-90000-08|liner##easy side##g/m²##|1.6±0.2|1.4000000000000001|1.8
+liner|23038-90000-08|liner##tight side##g/m²##|1.6±0.2|1.4000000000000001|1.8
+liner|23038-90000-08|liner##acrylic, easy side##cn/cm##|2 - 15|2.0|15.0
+liner|23038-90000-08|liner##acrylic, tight side##cn/cm##|3 - 15|3.0|15.0
+liner|23038-90000-08|liner##easy side##%##|≤20||20.0
+liner|23038-90000-08|liner##tight side##%##|≤20||20.0
+liner|22872-90000-00|liner##colour####|havanna, printed with tesa Logo FINAT TLMI-No. 16||
+liner|22872-90000-00|liner##surface quality####|Surface free of foreign material, uniform texture||
+liner|22872-90000-00|liner##silicone layer####|Full coverage, uniform spread||
+liner|22872-90000-00|liner##silicone anchorage####|Rub-off grade: 1 - 1.5||
+liner|22872-90000-00|liner##thickness##µm##|69 ± 6|63.0|75.0
+liner|22872-90000-00|liner##weight per unit area##g/m²##|80 ± 5|75.0|85.0
+liner|22872-90000-00|liner##tensile force md##n/15mm##|≥ 90|90.0|
+liner|22872-90000-00|liner##tensile force cd##n/15mm##|≥ 42|42.0|
+liner|22872-90000-00|liner##moisture##%##|3.5 - 5.5|3.5|5.5
+liner|22872-90000-00|liner##easy side##g/m²##|1.35 ± 0.1|1.25|1.4500000000000002
+liner|22872-90000-00|liner##tight side##g/m²##|1.35 ± 0.1|1.25|1.4500000000000002
+liner|22872-90000-00|liner##natural rubber, easy side##cn/cm##|2 - 15|2.0|15.0
+liner|22872-90000-00|liner##natural rubber, tight side##cn/cm##|2 - 20|2.0|20.0
+liner|22872-90000-00|liner##acrylic, easy side##cn/cm##|3 - 15|3.0|15.0
+liner|22872-90000-00|liner##acrylic, tight side##cn/cm##|4 - 15|4.0|15.0
+liner|22872-90000-00|liner##easy side##%##|≤ 20||20.0
+liner|22872-90000-00|liner##tight side##%##|≤ 20||20.0
+liner|20292-90000-80|liner##colour####|transparent||
+liner|20292-90000-80|liner##surface quality####|Lubricant and dust-free surface No brush and claw marks||
+liner|20292-90000-80|liner##silicone layer####|Has to be complete, no free parts of silicone or strips, uniform structure||
+liner|20292-90000-80|liner##silicone anchorage####|No rub off||
+liner|20292-90000-80|liner##thickness##µm##|50±4|46.0|54.0
+liner|20292-90000-80|liner##weight per unit area##g/m²##|72±4|68.0|76.0
+liner|20292-90000-80|liner##tensile force md##n/15mm##|≥105|105.0|
+liner|20292-90000-80|liner##elongation at break md##%##|≥55|55.0|
+liner|20292-90000-80|liner##shrinkage##%##|0-3|0.0|3.0
+liner|20292-90000-80|liner##outside##g/m²##|0.09-0.30 (low rainbow)|0.09|0.3
+liner|20292-90000-80|liner##acrylic, outside##cn/cm##|13-27|13.0|27.0
+liner|20292-90000-80|liner##outside##%##|≤20||20.0
+liner|20291-90000-80|liner##tensile force md##n/15mm##|≥65|65.0|
+liner|20291-90000-80|liner##elongation at break md##%##|≥55|55.0|
+liner|20291-90000-80|liner##shrinkage##%##|0-3|0.0|3.0
+liner|20291-90000-80|liner##outside##g/m²##|0.09-0.30|0.09|0.3
+liner|20291-90000-80|liner##acrylic, outside##cn/cm##|||
+liner|20291-90000-80|liner##outside##%##|≤20||20.0
+liner|21103-90000-00|liner##colour####|transparent||
+liner|21103-90000-00|liner##surface quality####|Free of foreign material, uniform texture||
+liner|21103-90000-00|liner##silicone layer####|Full coverage, uniform spread||
+liner|21103-90000-00|liner##silicone anchorage####|Rub-off grade: 2||
+liner|21103-90000-00|liner##thickness##µm##|50±4|46.0|54.0
+liner|21103-90000-00|liner##weight per unit area##g/m²##|72±4|68.0|76.0
+liner|21103-90000-00|liner##tensile force md##n/15mm##|≥105|105.0|
+liner|21103-90000-00|liner##elongation at break md##%##|≥55|55.0|
+liner|21103-90000-00|liner##shrinkage##%##|0-3|0.0|3.0
+liner|21103-90000-00|liner##silicone side##g/m²##|0.07-0.2|0.07|0.2
+liner|21103-90000-00|liner##acrylic, silicone side##cn/cm##|||
+liner|21103-90000-00|liner##silicone side##%##|≤20||20.0
+liner|21104-90000-00|liner##colour####|transparent||
+liner|21104-90000-00|liner##surface quality####|Free of foreign material, flat and uniform texture||
+liner|21104-90000-00|liner##silicone layer####|Full coverage, uniform spread||
+liner|21104-90000-00|liner##silicone anchorage####|Rub-off grade: 2||
+liner|21104-90000-00|liner##thickness##µm##|36±3|33.0|39.0
+liner|21104-90000-00|liner##weight per unit area##g/m²##|52±4|48.0|56.0
+liner|21104-90000-00|liner##tensile force md##n/15mm##|≥65|65.0|
+liner|21104-90000-00|liner##elongation at break md##%##|≥55|55.0|
+liner|21104-90000-00|liner##shrinkage##%##|0-3|0.0|3.0
+liner|21104-90000-00|liner##silicone side##g/m²##|0.07-0.2|0.07|0.2
+liner|21104-90000-00|liner##acrylic, silicone side##cn/cm##|||
+liner|21104-90000-00|liner##silicone side##%##|≤20||20.0
+backing|01446-90016-81|backing##thickness##|12 ± 1 μm|11.0|13.0
+backing|01446-90016-81|backing##weight per unit area##|16,8 ± 1,7 g/m²|15.100000000000001|18.5
+backing|01446-90016-81|backing##tensile strength md##|≥ 30 N/15mm = 20 N/cm [167 N/mm²]|30.0|
+backing|01446-90016-81|backing##elongation at break md##|70 – 200 %|70.0|200.0
+backing|01446-90016-81|backing##tensile strength cd##|≥ 30 N/15mm = 20 N/cm [167 N/mm²]|30.0|
+backing|01446-90016-81|backing##elongation at break cd##|60 – 190 %|60.0|190.0
+backing|01446-90016-81|backing##shrinkage md##|0 – 4 %|0.0|4.0
+backing|01446-90016-81|backing##shrinkage cd##|-0,5 – 1 %||
+backing|20655-90000-80|backing##thickness##|12 ± 1.0 μm|11.0|13.0
+backing|20655-90000-80|backing##weight per unit area##|16.8 ± 1.7 g/m²|15.100000000000001|18.5
+backing|20655-90000-80|backing##tensile strength md##|≥ 23 N/cm|23.0|
+backing|20655-90000-80|backing##elongation at break md##|≥ 80 %|80.0|
+backing|20655-90000-80|backing##tensile strength cd##|≥ 23N/cm|23.0|
+backing|20655-90000-80|backing##elongation at break cd##|≥ 80 %|80.0|
+backing|20655-90000-80|backing##shrinkage md##|≤ 2.0 %||2.0
+backing|20655-90000-80|backing##shrinkage cd##|≤ 0.5%||0.5
+backing|21053-90000-00|backing##thickness##|12 ± 1 μm|11.0|13.0
+backing|21053-90000-00|backing##weight per unit area##|16.8 ± 1.7g/m2|15.100000000000001|18.5
+backing|21053-90000-00|backing##tensile strength md##|≥ 18 N/cm|18.0|
+backing|21053-90000-00|backing##tensile strength td##|≥ 18 N/cm|18.0|
+backing|21053-90000-00|backing##elongation at break md##|≥ 60 %|60.0|
+backing|21053-90000-00|backing##elongation at break td##|≤ 60 %||60.0
+backing|21053-90000-00|backing##shrinkage md##|≤ 2 %||2.0
+backing|21053-90000-00|backing##shrinkage td##|≤ 0.5%||0.5
+backing|20169-90000-00|backing##thickness##|36 ± 1.8 μm|34.2|37.8
+backing|20169-90000-00|backing##weight per unit area##|50 ± 2.5 g/m²|47.5|52.5
+backing|20169-90000-00|backing##tensile strength md##|≥ 95 N/15 mm|95.0|
+backing|20169-90000-00|backing##tensile strength cd##|≥ 95 N/15 mm|95.0|
+backing|20169-90000-00|backing##elongation at break md##|≥ 90 %|90.0|
+backing|20169-90000-00|backing##elongation at break cd##|≥ 90 %|90.0|
+backing|20169-90000-00|backing##shrinkage md##|≤ 3 %||3.0
+backing|20169-90000-00|backing##shrinkage cd##|≤ 3 %||3.0
+backing|20532-90000-00|backing##thickness##|4.5 ± 0.5 μm|4.0|5.0
+backing|20532-90000-00|backing##weight per unit area##|6.3 ± 0.6 g/m²|5.7|6.8999999999999995
+backing|20532-90000-00|backing##tensile strength md##|≥ 17 N/15 mm|17.0|
+backing|20532-90000-00|backing##tensile strength at 5% elongation md##|≥ 100 N/mm²|100.0|
+backing|20532-90000-00|backing##elongation at break md##|≥ 60%|60.0|
+backing|20532-90000-00|backing##tensile strength cd##|≥ 13 N/15 mm|13.0|
+backing|20532-90000-00|backing##elongation at break cd##|≥ 60%|60.0|
+backing|20532-90000-00|backing##shrinkage md##|≤ 3.5%||3.5
+backing|20532-90000-00|backing##shrinkage cd##|≤ 1%||1.0
+backing|20654-90001-80|backing##thickness##|4.5 ± 0.5 μm|4.0|5.0
+backing|20654-90001-80|backing##weight per unit area##|6.3 ± 0.6 g/m²|5.7|6.8999999999999995
+backing|20654-90001-80|backing##tensile strength md##|≥ 8.7 N/cm|8.7|
+backing|20654-90001-80|backing##elongation at break md##|≥ 60%|60.0|
+backing|20654-90001-80|backing##tensile strength cd##|≥ 8.0 N/cm|8.0|
+backing|20654-90001-80|backing##elongation at break cd##|≥ 60%|60.0|
+backing|20654-90001-80|backing##shrinkage md##|≤ 2.2%||2.2
+backing|20654-90001-80|backing##shrinkage cd##|≤ 1.2%||1.2
+backing|20057-90002-00|backing##thickness##|12 ± 0.6 μm|11.4|12.6
+backing|20057-90002-00|backing##weight per unit area##|16.8 ± 0.8 g/m²|16.0|17.6
+backing|20057-90002-00|backing##tensile strength md##|≥ 36 N/15 mm|36.0|
+backing|20057-90002-00|backing##tensile strength cd##|≥ 36 N/15 mm|36.0|
+backing|20057-90002-00|backing##elongation at break md##|≥ 80 %|80.0|
+backing|20057-90002-00|backing##elongation at break cd##|≥ 70 %|70.0|
+backing|20057-90002-00|backing##shrinkage md##|≤ 2 %||2.0
+backing|20057-90002-00|backing##shrinkage cd##|≤ 2 %||2.0
+backing|20057-90002-00|backing##transparency vlt (550 nm)##|≤ 10%||10.0
+backing|20057-90002-00|backing##colour difference value δe cmc##|≤ 2.5||2.5
+backing|21071-90001-00|backing##thickness##|12 ±1.5 µm|10.5|13.5
+backing|21071-90001-00|backing##weight per unit area##|18.3 ±1.8 g/m²|16.5|20.1
+backing|21071-90001-00|backing##tensile strength md##|≥16 N/cm|16.0|
+backing|21071-90001-00|backing##tensile strength cd##|≥16 N/cm|16.0|
+backing|21071-90001-00|backing##elongation at break md##|≥80%|80.0|
+backing|21071-90001-00|backing##elongation at break cd##|≥50%|50.0|
+backing|21071-90001-00|backing##shrinkage md##|≤2.0%||2.0
+backing|21071-90001-00|backing##shrinkage cd##|≤1.0%||1.0
+backing|21071-90001-00|backing##transparency##|33.0 ±6|27.0|39.0
+backing|21071-90001-00|backing##antimony content##|≤300 ppm||300.0
+backing|20291-90000-80|backing####|||
+backing|20466-90001-80|backing##thickness##|12 ±0.6 µm|11.4|12.6
+backing|20466-90001-80|backing##weight per unit area##|16.8 ±0.8 g/m²|16.0|17.6
+backing|20466-90001-80|backing##tensile strength md##|≥34 N/15 mm|34.0|
+backing|20466-90001-80|backing##tensile strength cd##|≥34 N/15 mm|34.0|
+backing|20466-90001-80|backing##elongation at break md##|≥80 %|80.0|
+backing|20466-90001-80|backing##elongation at break cd##|≥70 %|70.0|
+backing|20466-90001-80|backing##shrinkage md##|≤2 %||2.0
+backing|20466-90001-80|backing##shrinkage cd##|≤2 %||2.0
+backing|20466-90001-80|backing##transparency vlt (550 nm)##|≤5 %||5.0
+backing|20466-90001-80|backing##colour difference value δe cmc colour indices (typical values)##|≤1.5 L*=16.09 a*=3.31 b*=9.29||1.5
+backing|20466-90001-80|backing##content* black masterbatch (pbt black 1951)##|8 ±1 %|7.0|9.0
+backing|20466-90001-80|backing##heavy metal content: cd, mn, hg, cr(vi), pb##|≤ 5 ppm in total||5.0
+backing|20466-90001-80|backing##halogen content##|≤ 30 ppm||30.0
+backing|21053-90000-00|backing##thickness##|12 ±1 µm|11.0|13.0
+backing|21053-90000-00|backing##weight per unit area##|16.8 ±1.7 g/m2|15.100000000000001|18.5
+backing|21053-90000-00|backing##tensile strength md##|≥18 N/cm|18.0|
+backing|21053-90000-00|backing##tensile strength td##|≥18 N/cm|18.0|
+backing|21053-90000-00|backing##elongation at break md##|≥60 %|60.0|
+backing|21053-90000-00|backing##elongation at break td##|≥60%|60.0|
+backing|21053-90000-00|backing##shrinkage md##|≤2%||2.0
+backing|21053-90000-00|backing##shrinkage td##|≤0.5%||0.5
+backing|21053-90000-00|backing##heavy metal content: cd, mn, hg, cr(vi), pb##|Not detected||
+backing|21053-90000-00|backing##halogen content cl ≤ 600 ppm, br ≤ 600 ppm, total halogen (f+cl+br+i) < 1500 ppm##|Not detected||
+backing|21053-90000-00|backing##antimony content##|≤300 ppm||300.0
+backing|20709-90000-xx|backing##thickness##|2 ±1.0 µm|1.0|3.0
+backing|20709-90000-xx|backing##weight per unit area##|2.7 ±1.0 g/m²|1.7000000000000002|3.7
+backing|20709-90000-xx|backing##tensile strength md##|≥4 N/cm|4.0|
+backing|20709-90000-xx|backing##elongation at break md##|≥40%|40.0|
+backing|20709-90000-xx|backing##tensile strength cd##|≥4 N/cm|4.0|
+backing|20709-90000-xx|backing##elongation at break cd##|≥40%|40.0|
+backing|20709-90000-xx|backing##shrinkage md##|0-3.0 %|0.0|3.0
+backing|20709-90000-xx|backing##shrinkage cd##|0-2,0%|0.0|2.0
+backing|20709-90000-xx|backing##halogen content (f, cl, br, i)##|Not detected||
+backing|20709-90000-xx|backing##heavy metal content (cd, pb, hg, cr(vi))##|Not detected||
+backing|20709-90000-xx|backing##antimony content##|≤400ppm||400.0
+backing|PE/PET heat weldable film|backing##thickness##|150 ±10 µm|140.0|160.0
+backing|PE/PET heat weldable film|backing##tensile strength md##|≥40 N/15mm|40.0|
+backing|PE/PET heat weldable film|backing##tensile strength cd##|≥40 N/15mm|40.0|
+backing|PE/PET heat weldable film|backing##elongation at break md##|≥60 %|60.0|
+backing|PE/PET heat weldable film|backing##elongation at break cd 伸长率cd方向##|≥80 %|80.0|
+backing|PE/PET heat weldable film|backing##transmittance##|≥80 %|80.0|
+backing|PE/PET heat weldable film|backing##heavy content: cd, mn, hg, cr(vi), pb 重金属含量##|Not detected (<MDL)||

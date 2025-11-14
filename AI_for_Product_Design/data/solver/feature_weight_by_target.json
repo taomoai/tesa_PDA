@@ -1,0 +1,47 @@
+{
+    "open_PA": {
+        "feature##backing_thickness": 0.0,
+        "feature##cover_adhesive_PA": -0.0,
+        "feature##cover_coating_weight": 0.0,
+        "feature##open_adhesive_PA": 0.7701713202086083,
+        "feature##open_coating_weight": 9.275909463750504e-05,
+        "bias": -0.9913753475794005
+    },
+    "cover_PA": {
+        "feature##backing_thickness": -0.0007407914730870713,
+        "feature##cover_adhesive_PA": 0.7809146903082351,
+        "feature##cover_coating_weight": 8.66248795962083e-05,
+        "feature##open_adhesive_PA": 0.05706111434907317,
+        "feature##open_coating_weight": 0.0,
+        "bias": -0.9035882217777971
+    },
+    "total_thickness": {
+        "feature##backing_thickness": 0.732787557453949,
+        "feature##cover_adhesive_PA": -0.6299460021285549,
+        "feature##cover_coating_weight": 0.000628119549862943,
+        "feature##open_adhesive_PA": 1.607675042586175,
+        "feature##open_coating_weight": 0.0012772048937727252,
+        "bias": -6.576039780142274
+    },
+    "adhesive_PA_all_values": [
+        0.02,
+        0.12,
+        5.0,
+        6.0,
+        6.4,
+        7.1,
+        7.2,
+        7.5,
+        7.7,
+        8.7,
+        9.7,
+        12.3
+    ],
+    "backing_thickness_all_values": [
+        2.0,
+        4.5,
+        12.0,
+        36.0,
+        150.0
+    ]
+}

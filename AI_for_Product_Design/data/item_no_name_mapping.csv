@@ -1,0 +1,141 @@
+Item_No|product_count|Item_Name
+P4003|7|Moisture paper liner, 1 week aging (Moistrex Pg6; 80g/m²)##%##
+P4004|29|Removable force of paper liner (180° method)##cN/cm##
+P4005|32|Peel adhesion/Steel, open side (180° method)##N/cm##
+P4006|32|Peel adhesion/Steel, covered side (180° method)##N/cm##
+P4007|32|Peel adhesion/Steel, 14 days, open side (180° method)##N/cm##
+P4008|32|Peel adhesion/Steel, 14days, covered side (180° method)##N/cm##
+P4009|15|Peel adhesion/ABS, open side (180° method)##N/cm##
+P4010|15|Peel adhesion/ABS, covered side (180° method)##N/cm##
+P4011|15|Peel adhesion/ABS, 14 days, open side (180° method)##N/cm##
+P4012|15|Peel adhesion/ABS, 14days, covered side (180° method)##N/cm##
+P4013|25|Peel adhesion/PC, open side (180° method)##N/cm##
+P4014|25|Peel adhesion/PC, covered side (180° method)##N/cm##
+P4015|25|Peel adhesion/PC, 14 days, open side (180° method)##N/cm##
+P4016|25|Peel adhesion/PC, 14days, covered side (180° method)##N/cm##
+P4017|16|Peel adhesion/PE, covered side (180° method)##N/cm##
+P4018|16|Peel adhesion/PE, 14 days, open side (180° method)##N/cm##
+P4019|16|Peel adhesion/PE, 14 days, open side (180° method)##N/cm##
+P4020|16|Peel adhesion/PE, 14days, covered side (180° method)##N/cm##
+P4041|26|Holding power/steel, open side (10N; RT)##min##
+P4042|26|Holding power/steel, covered side (10N; RT)##min##
+P4043|7|Peel adhesion/Alu, open side (180° method)##N/cm##
+P4044|7|Peel adhesion/Alu, covered side (180° method)##N/cm##
+P4045|7|Peel adhesion/Alu, 14days, open side (180° method)##N/cm##
+P4046|7|Peel adhesion/Alu, 14days, covered side (180° method)##N/cm##
+P4047|4|Peel adhesion/PS, covered side (180° method)##N/cm##
+P4048|4|Peel adhesion/PS, 14days, open side (180° method)##N/cm##
+P4049|4|Peel adhesion/PS, 14days, covered side (180° method)##N/cm##
+P4050|4|Peel adhesion/PET, open side (180° method)##N/cm##
+P4051|13|Peel adhesion/PET, covered side (180° method)##N/cm##
+P4052|13|Peel adhesion/PET, 14days, open side (180° method)##N/cm##
+P4053|13|Peel adhesion/PET, 14days, covered side (180° method)##N/cm##
+P4054|13|Peel adhesion/PET, 14days, covered side (180° method)##N/cm##
+P4055|6|Peel adhesion/PVC, covered side (180° method)##N/cm##
+P4056|6|Peel adhesion/PVC, 14days, open side (180° method)##N/cm##
+P4057|6|Peel adhesion/PVC, 14days, covered side (180° method)##N/cm##
+P4058|6|Peel adhesion/PE, open side (180° method)##N/cm##
+P4059|6|Peel adhesion/PP, covered side (180° method)##N/cm##
+P4060|6|Peel adhesion/PP, 14days, open side (180° method)##N/cm##
+P4061|6|Peel adhesion/PP, 14days, covered side (180° method)##N/cm##
+P4062|6|Peel adhesion/Glass, open side (180° method)##N/cm##
+P4063|18|Heat resistance, long time##°C##
+P4064|17|Heat resistance, long time##°C##
+P4065|11|Maximum tensile strength, M.D.(L=100mm;v=300mm/min)##N/15mm##
+P4066|11|Heat resistance, short time##%##
+P4067|1|Shear test, open side (250g;RT)##min##
+P4068|1|Shear test, covered side (250g;RT)##min##
+P4069|1|Shear test, open side (125g;40°C)##min##
+P4070|1|Shear test, covered side (125g;40°C)##min##
+P4071|1|Shear test, open side (70g;70°C)##min##
+P4072|1|Shear test, covered side (70g;70°C)##min##
+P4079|41|Total weight after 1st coating, without liner##g/m²##
+P4080|41|Total weight, without liner##g/m²##
+P4083|9|Rolling Ball Tack, covered side##mm##
+P4084|8|Rolling Ball Tack, covered side##mm##
+P4110|22|Moisture paper liner, 1 week aging (Moistrex Pg11; 82g/m²)##%##
+P4111|7|Peel adhesion/PI, open side (180° method)##N/cm##
+P4112|7|Peel adhesion/PI, covered side (180° method)##N/cm##
+P4113|33|RoHS conformity, proofed by ext. certificate of analysis##-##
+P4114|32|halogen content (F, Cl, Br, I), proofed by external CoA##ppm##
+P4115|10|Static Peel/PC, open side (50g; 70°C; 4h)##mm##
+P4116|10|Static Peel/PC, covered side (50g; 70°C; 4h)##mm##
+P4119|6|Flip Off, open side (100µmPET/PC;72h;85°C)##-##
+P4120|6|Flip Off, covered side (100µmPET/PC;72h;85°C)##-##
+P4127|2|Removable force of liner film (180° method)##cN/cm##
+P4131|8|Peel adhesion/Glass, covered side (180° method)##N/cm##
+P4132|8|Peel adhesion/Glass, 14 days, open side (180° method)##N/cm##
+P4133|8|Peel adhesion/Glass, 14 days, covered side (180° method)##N/cm##
+P4134|8|Maximum tensile strength, M.D.(L=100mm;v=300mm/min)##N/cm##
+P4140|6|Removable force of liner foil, inside (180° method)##cN/cm##
+P4141|6|Removable force of liner foil, outside (180° method)##cN/cm##
+P4144|8|Peel adhesion/Steel, inside (180° method)##N/cm##
+P4145|8|Peel adhesion/Steel, outside (180° method)##N/cm##
+P4146|8|Peel adhesion/Steel, 14 days, inside (180° method)##N/cm##
+P4147|8|Peel adhesion/Steel, 14 days, outside (180° method)##N/cm##
+P4148|3|Holding power/steel, inside (10N;RT)##min##
+P4149|3|Holding power/steel, outside (10N;RT)##min##
+P4150|4|Peel adhesion/ABS, inside (180° method)##N/cm##
+P4151|4|Peel adhesion/ABS, outside (180° method)##N/cm##
+P4152|4|Peel adhesion/ABS, 14 days, inside (180° method)##N/cm##
+P4153|4|Peel adhesion/ABS, 14 days, outside (180° method)##N/cm##
+P4154|6|Peel adhesion/PC, inside (180° method)##N/cm##
+P4155|6|Peel adhesion/PC, outside (180° method)##N/cm##
+P4156|6|Peel adhesion/PC, 14 days, inside (180° method)##N/cm##
+P4157|6|Peel adhesion/PC, 14 days, outside (180° method)##N/cm##
+P4158|3|Peel adhesion/PE, inside (180° method)##N/cm##
+P4159|3|Peel adhesion/PE, outside (180° method)##N/cm##
+P4160|3|Peel adhesion/PE, 14 days, inside (180° method)##N/cm##
+P4161|3|Peel adhesion/PE, 14 days, outside (180° method)##N/cm##
+P4163|7|Peel adhesion/PI, 14days, open side (180° method)##N/cm##
+P4164|7|Peel adhesion/PI, 14days, covered side (180° method)##N/cm##
+P4165|2|Removability/PC, cov.S. (14d;85°C;95%rh)##-##
+P4169|4|Removable force of thin liner film (180° method)##cN/cm##
+P4170|4|Removable force of thick liner film (180° method)##cN/cm##
+P4193|1|Peel adhesion/PET, inside (180° method)##N/cm##
+P4194|1|Peel adhesion/PET, outside (180° method)##N/cm##
+P4195|1|Peel adhesion/PET, 14 days, inside (180° method)##N/cm##
+P4196|1|Peel adhesion/PET, 14 days, outside (180° method)##N/cm##
+P4207|1|Peel adhesion/PI, outside (180° method)##N/cm##
+P4208|1|Peel adhesion/PI, inside (180° method)##N/cm##
+P4211|9|Holding power/steel, open side (10N;40°C)##min##
+P4212|9|Holding power/steel, covered side (10N;40°C)##min##
+P4213|9|Holding power/steel, open side (10N;70°C)##min##
+P4214|9|Holding power/steel, covered side (10N;70°C)##min##
+P4220|4|Static Peel/PC, open side (30g; 70°C; 4h)##mm##
+P4221|4|Static Peel/PC, covered side (30g; 70°C; 4h)##mm##
+P4222|1|halogen content (F,Cl,Br,I), proofed by external CoA##-##
+P4229|1|Peel adhesion/Steel, inside (180°; 23MY PET reinforced)##N/cm##
+P4230|1|Peel adhesion/Steel, outside (180°; 23MY PET reinforced)##N/cm##
+P4231|1|Peel adhesion/Glass, inside (180°; 23MY PET reinforced)##N/cm##
+P4232|1|Peel adhesion/Glass, outside (180°; 23MY PET reinforced)##N/cm##
+P4233|1|Peel adhesion/Steel, inside, 14d (180°;23MY PET reinforced)##N/cm##
+P4234|1|Peel adhesion/Steel, outside, 14d (180°;23MY PET reinforced)##N/cm##
+P4235|1|Peel adhesion/Glass, inside, 14d (180°;23MY PET reinforced)##N/cm##
+P4236|1|Peel adhesion/Glass, outside, 14d (180°;23MY PET reinforced)##N/cm##
+P4256|1|Peel adhesion/PI, 14 days, inside (180° method)##N/cm##
+P4257|1|Peel adhesion/PI, 14 days, outside (180° method)##N/cm##
+P4264|4|Removability/PC, cov.S. (1d aging; 7d dwelling;85°C;95%rh)##-##
+P4301|2|Microshear test inside 40°C, 15min, 100g##µM##
+P4302|2|Microshear test outside 40°C, 15min, 100g##µM##
+P4338|4|Peel adhesion/Steel, inside (180° method, ASTM3300)##N/cm##
+P4339|4|Peel adhesion/Steel, outside (180° method, ASTM3300)##N/cm##
+P4340|3|Peel adhesion/Steel, 14 days, inside (180° method, ASTM3300)##N/cm##
+P4341|3|Peel adhesion/Steel, 14 days, outside (180° method, ASTM3300##N/cm##
+P4342|4|Peel adhesion/ASTM-Steel, open side (180° method)##N/cm##
+P4343|4|Peel adhesion/ASTM-Steel, covered side (180° method)##N/cm##
+P4344|1|Peel adhesion/ASTM-Steel, open side, after 14 days (180° met##N/cm##
+P4345|1|Peel adhesion/ASTM-Steel, covered side after 14 days (180° m##N/cm##
+P4405|6|Edge tapping/PC, open side(60°C;90%Rh)##-##
+P4406|6|Edge tapping/PC, cover side(60°C;90%Rh)##-##
+P4407|2|Removability/PC,remov. s.(aging; 7d dwelling;85°C;95%rh)##-##
+P4408|2|Removability/Glass, remov.s. (aging; 7d dwelling; 85°C; 95%rh)##-##
+P4409|1|Removability/ABS,remov.s. (aging; 7d dwelling;85°C;95%rh)##-##
+P4433|41|Total thickness, without liner (10N;disc:16mm)##µM##
+P4449|2|Peel adhesion/Glass, outside (180° method)##N/cm##
+P4450|2|Peel adhesion/Glass, inside (180° method)##N/cm##
+P4451|2|Peel adhesion/Glass, 14 days, outside (180° method)##N/cm##
+P4452|2|Peel adhesion/Glass, 14 days, inside (180° method)##N/cm##
+P4524|1|Name plate 11° RT 48hrs##mm##
+PP4079|41|Adhensive weight of 1st coating##g/m²##
+PP4080|41|Adhensive weight of 2cd coating##g/m²##
